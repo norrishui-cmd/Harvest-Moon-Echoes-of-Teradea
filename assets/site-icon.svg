@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Original moon and leaf guide icon">
+  <rect width="64" height="64" rx="14" fill="#1f4e3b"/>
+  <circle cx="40" cy="22" r="13" fill="#fff1bf"/>
+  <circle cx="45" cy="18" r="13" fill="#1f4e3b"/>
+  <path d="M14 43c12-17 27-18 38-9-8 1-13 5-17 12-5 9-15 11-24 7 6-1 11-4 15-9-4 2-8 3-12 3z" fill="#84b86a"/>
+  <path d="M19 47c9-5 18-9 29-10" fill="none" stroke="#fff8dd" stroke-width="3" stroke-linecap="round"/>
+</svg>

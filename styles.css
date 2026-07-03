@@ -164,6 +164,60 @@ h3 {
   color: rgba(255, 253, 241, 0.88);
 }
 
+.countdown {
+  width: min(640px, 100%);
+  margin-top: 26px;
+  padding: 18px;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: var(--radius);
+  background: rgba(16, 26, 21, 0.42);
+  box-shadow: 0 16px 36px rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(10px);
+}
+
+.countdown-label {
+  margin-bottom: 12px;
+  color: #ffe7a6;
+  font-size: 12px;
+  font-weight: 900;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.countdown-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 10px;
+}
+
+.countdown-grid span {
+  display: grid;
+  min-height: 78px;
+  align-content: center;
+  padding: 10px;
+  border-radius: 7px;
+  background: rgba(255, 253, 241, 0.12);
+  color: rgba(255, 253, 241, 0.76);
+  font-size: 12px;
+  font-weight: 850;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.countdown-grid strong {
+  display: block;
+  margin-bottom: 2px;
+  color: #fffdf1;
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1;
+}
+
+.countdown p {
+  margin: 12px 0 0;
+  color: rgba(255, 253, 241, 0.72);
+  font-size: 13px;
+}
+
 .hero-actions {
   display: flex;
   flex-wrap: wrap;
@@ -454,8 +508,20 @@ details p {
 }
 
 .sources a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
   color: #ffe7a6;
   font-weight: 800;
+}
+
+.external-link::after {
+  content: "";
+  display: inline-block;
+  width: 0.9em;
+  height: 0.9em;
+  background: currentColor;
+  mask: url("assets/icon-external-link.svg") center / contain no-repeat;
 }
 
 .site-footer {
@@ -512,7 +578,8 @@ details p {
   .insight-grid,
   .card-grid,
   .timeline,
-  .status-strip {
+  .status-strip,
+  .countdown-grid {
     grid-template-columns: 1fr;
   }
 
