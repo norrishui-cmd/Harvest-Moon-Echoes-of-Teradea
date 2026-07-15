@@ -1,0 +1,19 @@
+# Harvest Moon: Echoes of Teradea Guide
+
+Unofficial English fan guide for Harvest Moon: Echoes of Teradea.
+
+Canonical site: https://harvestmoonechoesofteradea.wiki/
+Sitemap: https://harvestmoonechoesofteradea.wiki/sitemap.xml
+
+Important pages:
+- https://harvestmoonechoesofteradea.wiki/release-date/
+- https://harvestmoonechoesofteradea.wiki/platforms/
+- https://harvestmoonechoesofteradea.wiki/preorder/
+- https://harvestmoonechoesofteradea.wiki/beginner-guide/
+- https://harvestmoonechoesofteradea.wiki/farming-guide/
+- https://harvestmoonechoesofteradea.wiki/village-restoration/
+- https://harvestmoonechoesofteradea.wiki/map-exploration/
+- https://harvestmoonechoesofteradea.wiki/romance/
+- https://harvestmoonechoesofteradea.wiki/items-recipes-materials/
+
+Data policy: gameplay-specific values are not treated as confirmed until official material or released gameplay verifies them.

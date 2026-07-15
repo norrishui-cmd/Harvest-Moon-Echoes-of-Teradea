@@ -756,3 +756,7 @@ details p {
     padding-left: 0;
   }
 }
+
+.element-grid article > a + a {
+  margin-left: 10px;
+}
