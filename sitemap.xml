@@ -2,97 +2,134 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://harvestmoonechoesofteradea.wiki/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-  </url>  <url>
+  </url>
+  <url>
     <loc>https://harvestmoonechoesofteradea.wiki/release-date/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>  <url>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://harvestmoonechoesofteradea.wiki/platforms/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>  <url>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/platforms/nintendo-switch/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/platforms/nintendo-switch-2/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/platforms/ps5/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/platforms/xbox-series-xs/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/platforms/pc-steam/</loc>
+    <lastmod>2026-07-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://harvestmoonechoesofteradea.wiki/preorder/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/beginner-guide/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/preorder/wolf-plush/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/farming-guide/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/features/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.9</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/village-restoration/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/features/open-world-exploration/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/map-exploration/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/features/animal-companions/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/romance/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/features/campsites-travel/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/mounts-pets/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/features/power-statues-wisps/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/items-recipes-materials/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/locations/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/characters/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/locations/bloomfield-village/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/quests/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/locations/forest-of-echoes/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/festivals-events/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/locations/tidewind/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/calendar/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/locations/quarrytop/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/tools-upgrades/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/locations/maplehill/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/money-guide/</loc>
-    <lastmod>2026-07-15</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://harvestmoonechoesofteradea.wiki/romance/candidates/</loc>
+    <lastmod>2026-07-17</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/updates/</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url>  <url>
-    <loc>https://harvestmoonechoesofteradea.wiki/faq/</loc>
-    <lastmod>2026-07-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.82</priority>
-  </url></urlset>
+    <priority>0.7</priority>
+  </url>
+</urlset>
