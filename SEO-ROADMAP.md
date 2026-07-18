@@ -107,3 +107,11 @@
 - sitemap 可索引 URL 从 44 条提升到 67 条；HTML 页面从 57 条提升到 80 条。
 - 13 个缺乏具体答案的旧模板继续保持 `noindex, follow`。
 - 新增生成命令：`node scripts/generate-round3-pages.mjs`。
+
+## 德语与日语扩展（2026-07-18）
+
+- 新增德语与日语各 16 条核心内容 URL，共 32 条本地化页面，覆盖首页、发行、平台、预购、功能、地点、角色、恋爱、攻略、故事与 FAQ。
+- 16 组英语、德语、日语对应页均配置双向 `hreflang`，包含 `x-default`；每页使用独立 canonical 与正确的 `html lang`。
+- 所有本地化页面都明确标注为非官方攻略语言，不将攻略翻译误写成游戏本体已确认支持德语或日语。
+- sitemap 可索引 URL 从 67 条提升到 99 条；HTML 页面从 80 条提升到 112 条；13 条推测型旧页继续保持 `noindex, follow`。
+- 新增生成与审计命令：`node scripts/generate-i18n-de-ja.mjs`、`node scripts/i18n-audit.mjs`。
