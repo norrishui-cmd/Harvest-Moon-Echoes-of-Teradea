@@ -98,3 +98,12 @@
 - sitemap 可索引 URL 从 22 条提升到 44 条。
 - 仍保持 13 个缺乏真实游戏数据的旧模板为 `noindex, follow`；作物价格、礼物、日程、任务步骤和地图坐标没有被虚构。
 - 新增生成命令：`node scripts/generate-round2-pages.mjs`。
+
+## 第三轮交付状态（2026-07-18）
+
+- 新增 21 条事实型叶子页面和 `guides/`、`story/` 两个新 hub。
+- 覆盖矿洞与矿石、寻宝、旅行商人、体力恢复、稀有动物、宠物与坐骑、迷雾、Guardian Wolf、村庄灾害和恢复 Teradea 等深层搜索意图。
+- 增加 11 条可直接回答的 FAQ，包括狼驯服、熊与老虎、最大体力、Forest Goddess Statue、远程岛屿、旅行商人和确认村庄。
+- sitemap 可索引 URL 从 44 条提升到 67 条；HTML 页面从 57 条提升到 80 条。
+- 13 个缺乏具体答案的旧模板继续保持 `noindex, follow`。
+- 新增生成命令：`node scripts/generate-round3-pages.mjs`。

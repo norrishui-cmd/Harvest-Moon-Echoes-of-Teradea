@@ -61,6 +61,7 @@ node scripts/generate-confirmed-pages.mjs
 node scripts/generate-round2-pages.mjs
 node scripts/apply-indexing-policy.mjs
 node scripts/seo-audit.mjs
+node scripts/seo-graph-audit.mjs
 ```
 
 The final audit must report 57 HTML pages and 44 quality-approved URLs.
