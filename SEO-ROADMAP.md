@@ -115,3 +115,10 @@
 - 所有本地化页面都明确标注为非官方攻略语言，不将攻略翻译误写成游戏本体已确认支持德语或日语。
 - sitemap 可索引 URL 从 67 条提升到 99 条；HTML 页面从 80 条提升到 112 条；13 条推测型旧页继续保持 `noindex, follow`。
 - 新增生成与审计命令：`node scripts/generate-i18n-de-ja.mjs`、`node scripts/i18n-audit.mjs`。
+
+## AdSense 全站配置（2026-07-18）
+
+- 发布商 ID `ca-pub-9505220977121599` 已部署到全部 112 个 HTML 页面的 `<head>`。
+- 全站同时配置异步 AdSense 脚本和 `google-adsense-account` 元标记。
+- 根目录新增标准 `/ads.txt`：`google.com, pub-9505220977121599, DIRECT, f08c47fec0942fa0`。
+- 新增可重复执行的配置与审计命令：`node scripts/configure-adsense.mjs`、`node scripts/adsense-audit.mjs`。
