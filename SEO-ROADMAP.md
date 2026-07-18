@@ -1,6 +1,6 @@
 # Harvest Moon: Echoes of Teradea 发布前 2000 URL SEO 计划
 
-更新日期：2026-07-17  
+更新日期：2026-07-18  
 目标发布日期：2026-09-24  
 站点：https://harvestmoonechoesofteradea.wiki/
 
@@ -89,3 +89,12 @@
 - 自动 SEO 审计：`node scripts/seo-audit.mjs`
 - 重新生成已确认页面：`node scripts/generate-confirmed-pages.mjs`
 - 重建索引策略与 sitemap：`node scripts/apply-indexing-policy.mjs`
+
+## 第二轮交付状态（2026-07-18）
+
+- 新增 20 条事实型叶子页面，覆盖 Happilia、野生动物惩罚、远程岛屿、航海图、Guardian Spirits、移动能力、角色实体、预购零售商与 FAQ 长尾。
+- 将原有 `characters/` 与 `faq/` 两个薄模板重写为事实型 hub，并重新开放索引。
+- 刷新 `features/` hub，使全部已确认机制获得双向内部链接。
+- sitemap 可索引 URL 从 22 条提升到 44 条。
+- 仍保持 13 个缺乏真实游戏数据的旧模板为 `noindex, follow`；作物价格、礼物、日程、任务步骤和地图坐标没有被虚构。
+- 新增生成命令：`node scripts/generate-round2-pages.mjs`。
