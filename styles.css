@@ -88,6 +88,76 @@ a {
   background: #e9efe5;
 }
 
+.language-switcher {
+  position: relative;
+  flex: 0 0 auto;
+}
+
+.language-switcher summary {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  min-height: 40px;
+  padding: 7px 12px;
+  border: 1px solid rgba(31, 78, 59, 0.22);
+  border-radius: 999px;
+  background: #fffdf7;
+  color: #24362c;
+  cursor: pointer;
+  font-size: 14px;
+  font-weight: 800;
+  list-style: none;
+  user-select: none;
+}
+
+.language-switcher summary::-webkit-details-marker {
+  display: none;
+}
+
+.language-switcher summary:focus-visible {
+  outline: 3px solid rgba(189, 139, 45, 0.45);
+  outline-offset: 2px;
+}
+
+.language-switcher[open] .language-chevron {
+  transform: rotate(180deg);
+}
+
+.language-chevron {
+  transition: transform 0.18s ease;
+}
+
+.language-switcher ul {
+  position: absolute;
+  top: calc(100% + 8px);
+  right: 0;
+  z-index: 50;
+  width: 170px;
+  margin: 0;
+  padding: 7px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: var(--surface);
+  box-shadow: var(--shadow);
+  list-style: none;
+}
+
+.language-switcher a {
+  display: block;
+  padding: 9px 11px;
+  border-radius: 7px;
+  color: var(--ink);
+  font-size: 14px;
+  font-weight: 750;
+  text-decoration: none;
+}
+
+.language-switcher a:hover,
+.language-switcher a[aria-current="page"] {
+  background: #e9efe5;
+  color: var(--leaf-dark);
+}
+
 .hero {
   position: relative;
   min-height: 86vh;
@@ -750,6 +820,16 @@ details p {
 
   .nav {
     width: 100%;
+  }
+
+  .language-switcher {
+    position: absolute;
+    top: 13px;
+    right: 16px;
+  }
+
+  .language-switcher summary span:nth-child(2) {
+    display: none;
   }
 
   .nav a {
