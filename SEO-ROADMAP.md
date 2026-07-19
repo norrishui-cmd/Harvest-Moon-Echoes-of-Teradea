@@ -122,3 +122,10 @@
 - 全站同时配置异步 AdSense 脚本和 `google-adsense-account` 元标记。
 - 根目录新增标准 `/ads.txt`：`google.com, pub-9505220977121599, DIRECT, f08c47fec0942fa0`。
 - 新增可重复执行的配置与审计命令：`node scripts/configure-adsense.mjs`、`node scripts/adsense-audit.mjs`。
+
+## 各 Tab News 模块（2026-07-19）
+
+- 8 个一级详情 Tab 各新增 5 篇相关新闻，共 40 条独立 News URL，并建立 `/news/` 聚合页。
+- News 页按 Release、Guides、Story、Features、Locations、Platforms、Preorder、FAQ 组织，Tab 与新闻页双向链接。
+- 每篇内容均使用官方发布事实，并设置 NewsArticle、Breadcrumb、唯一元数据与 canonical。
+- 首页 Roadmap 仅为页面锚点，不是独立详情页，因此不创建虚假 Roadmap 新闻集群。
