@@ -129,3 +129,9 @@
 - News 页按 Release、Guides、Story、Features、Locations、Platforms、Preorder、FAQ 组织，Tab 与新闻页双向链接。
 - 每篇内容均使用官方发布事实，并设置 NewsArticle、Breadcrumb、唯一元数据与 canonical。
 - 首页 Roadmap 仅为页面锚点，不是独立详情页，因此不创建虚假 Roadmap 新闻集群。
+
+## FAQ 50 扩展（2026-07-19）
+
+- 新增 50 个真实、来源核验、独立可索引 FAQ URL，原有 21 个 FAQ 保留，FAQ 总量达到 71 个。
+- `/faq/` 增加八类问题目录，8 个一级 Tab 各增加 5 个相关 FAQ 入口。
+- 未公布的时间、性能、数值和步骤均明确保持未知，不从旧作推断。
