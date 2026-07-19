@@ -1,0 +1,24 @@
+{
+  "game": "Harvest Moon: Echoes of Teradea",
+  "lastChecked": "2026-07-19",
+  "releaseDate": "2026-09-24",
+  "genre": ["Simulation", "Farming"],
+  "players": 1,
+  "rating": "ESRB Rating Pending",
+  "platforms": ["Nintendo Switch 2", "Nintendo Switch", "PlayStation 5", "Xbox Series X|S", "PC (Steam)"],
+  "physicalPlatforms": ["Nintendo Switch 2", "Nintendo Switch", "PlayStation 5"],
+  "demo": {
+    "status": "No public demo announced",
+    "checkedThrough": "2026-07-19"
+  },
+  "namedCharacters": ["Harvest Goddess", "Doc Jr.", "Lupo"],
+  "romanceCandidates": 10,
+  "namedLocations": ["Bloomfield Village", "Forest of Echoes", "Tidewind", "Quarrytop", "Maplehill"],
+  "keyItems": ["Nautical Charts", "Power Wisp Fruits", "Ore", "Gems", "Traveling Merchant Exclusive Items", "Rare Collectibles"],
+  "officialSources": [
+    "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf",
+    "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+    "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+    "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush"
+  ]
+}

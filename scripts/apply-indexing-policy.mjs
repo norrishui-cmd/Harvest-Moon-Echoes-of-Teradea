@@ -9,7 +9,8 @@ const legacy = [
   'mounts-pets', 'quests', 'romance', 'tools-upgrades', 'updates', 'village-restoration'
 ];
 
-for (const slug of legacy) {
+const noindexLegacy = legacy.filter(slug => !approved.has(`/${slug}/`));
+for (const slug of noindexLegacy) {
   const file = path.join(root, slug, 'index.html');
   let html = await readFile(file, 'utf8');
   html = html.replace(/\s*<meta name="robots"[^>]*>/, '');
@@ -24,4 +25,4 @@ const urls = [...approved].map(url => {
 }).join('\n');
 await writeFile(path.join(root, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`);
 
-console.log(`Sitemap contains ${approved.size} quality-approved URLs; ${legacy.length} speculative hubs set to noindex, follow.`);
+console.log(`Sitemap contains ${approved.size} quality-approved URLs; ${noindexLegacy.length} speculative hubs set to noindex, follow.`);
