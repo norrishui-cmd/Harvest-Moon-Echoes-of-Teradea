@@ -23,7 +23,33 @@ const v8Translated = [
   'interface/docpad',
   'interface/photo-mode'
 ];
-const translated = new Set([...core, ...expansion, ...v7Translated, ...v8Translated]);
+const v10Translated = [
+  'platforms/nintendo-switch',
+  'platforms/nintendo-switch-2',
+  'platforms/ps5',
+  'platforms/xbox-series-xs',
+  'platforms/pc-steam',
+  'features/untamed-wilderness',
+  'features/islands-nautical-charts',
+  'features/farming-system',
+  'features/guardian-spirits',
+  'features/player-movement',
+  'locations/bloomfield-village',
+  'locations/forest-of-echoes',
+  'locations/tidewind',
+  'locations/quarrytop',
+  'locations/maplehill',
+  'guides/treasure-hunting',
+  'guides/mining-caves',
+  'guides/traveling-merchants',
+  'guides/stamina-recovery',
+  'guides/rare-animals',
+  'guides/pets-vs-mounts',
+  'story/mist-of-teradea',
+  'story/guardian-wolf',
+  'story/village-disasters'
+];
+const translated = new Set([...core, ...expansion, ...v7Translated, ...v8Translated, ...v10Translated]);
 
 async function walk(dir) {
   const output = [];
