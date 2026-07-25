@@ -215,7 +215,7 @@ const schema = (page, url, language='en') => JSON.stringify({'@context':'https:/
   {'@type':'Article',headline:page.title,name:page.title,description:page.description || page.direct,dateModified:reviewed,inLanguage:language,mainEntityOfPage:url,author:{'@type':'Organization',name:'Echoes Guide Editorial Team'},about:{'@type':'VideoGame',name:'Harvest Moon: Echoes of Teradea'}},
   {'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:'Home',item:`${site}/`},{'@type':'ListItem',position:2,name:page.title,item:url}]}
 ]});
-const header = prefix => `<header class="site-header"><a class="brand" href="${prefix}"><span class="brand-mark">HM</span><span>Echoes Guide</span></a><nav class="nav"><a href="${prefix}guides/">Guides</a><a href="${prefix}characters/">Characters</a><a href="${prefix}locations/">Locations</a><a href="${prefix}interface/">Interface</a><a href="${prefix}faq/">FAQ</a></nav></header>`;
+const header = prefix => `<header class="site-header"><a class="brand" href="${prefix}"><span class="brand-mark">HM</span><span class="brand-copy"><span class="brand-title">Harvest Moon: Echoes of Teradea</span><span class="brand-subtitle">Wiki &amp; Guides</span></span></a><nav class="nav"><a href="${prefix}guides/">Guides</a><a href="${prefix}characters/">Characters</a><a href="${prefix}locations/">Locations</a><a href="${prefix}interface/">Interface</a><a href="${prefix}faq/">FAQ</a></nav></header>`;
 
 function renderPage(page) {
   const route = `${page.section === 'places' ? 'locations' : page.section}/${page.slug}`;

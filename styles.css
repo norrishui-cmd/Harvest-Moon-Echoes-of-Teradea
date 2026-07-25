@@ -52,15 +52,36 @@ a {
   display: inline-flex;
   align-items: center;
   gap: 10px;
+  flex: 0 0 auto;
   text-decoration: none;
   font-weight: 800;
   letter-spacing: 0;
+}
+
+.brand-copy {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  line-height: 1.08;
+}
+
+.brand-title {
+  font-size: clamp(12px, 1.15vw, 15px);
+  font-weight: 750;
+  white-space: nowrap;
+}
+
+.brand-subtitle {
+  font-size: clamp(17px, 1.55vw, 21px);
+  font-weight: 900;
+  white-space: nowrap;
 }
 
 .brand-mark {
   display: grid;
   width: 38px;
   height: 38px;
+  flex: 0 0 38px;
   place-items: center;
   border-radius: 50%;
   background: var(--leaf-dark);
@@ -890,6 +911,14 @@ details p {
 
   .nav a {
     padding-left: 0;
+  }
+
+  .brand-title {
+    font-size: 12px;
+  }
+
+  .brand-subtitle {
+    font-size: 17px;
   }
 }
 
