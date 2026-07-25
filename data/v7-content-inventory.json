@@ -1,0 +1,13 @@
+{
+  "reviewed": "2026-07-25",
+  "releaseDate": "2026-09-24",
+  "baselineIndexable": 242,
+  "targetIndexable": 1000,
+  "addedEnglishHubs": 4,
+  "addedEnglishLeaves": 24,
+  "addedLocalized": {
+    "de": 8,
+    "ja": 8
+  },
+  "nextActivationRule": "Only activate entity pages when official or observed game data supplies a concrete answer."
+}

@@ -1,0 +1,17 @@
+{
+  "reviewed": "2026-07-25",
+  "baselineHtml": 298,
+  "baselineIndexable": 286,
+  "addedEnglishHub": 1,
+  "addedEnglishPages": 18,
+  "addedLocalized": {
+    "de": 6,
+    "ja": 6
+  },
+  "evidencePolicy": "A visible name, place, objective, or control may become a page only when it has a distinct future data path and an explicit unknown boundary.",
+  "sourceUrls": [
+    "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+    "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush",
+    "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y"
+  ]
+}
