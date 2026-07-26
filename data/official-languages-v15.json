@@ -1,0 +1,28 @@
+{
+  "reviewed": "2026-07-26",
+  "official": [
+    {
+      "code": "en",
+      "name": "English"
+    },
+    {
+      "code": "fr",
+      "name": "Français"
+    },
+    {
+      "code": "de",
+      "name": "Deutsch"
+    },
+    {
+      "code": "es",
+      "name": "Español"
+    }
+  ],
+  "editorial_extra": [
+    {
+      "code": "ja",
+      "name": "Japanese"
+    }
+  ],
+  "source": "https://www.shop-justforgames.eu/products/harvest-moon-echoes-of-teradea-switch-2"
+}
