@@ -1,0 +1,853 @@
+[
+  {
+    "hub": "release-date",
+    "slug": "was-the-release-date-in-the-first-announcement",
+    "question": "Was the Release Date Included in the First Announcement?",
+    "answer": "No. Natsume revealed the game on March 11, 2026 without a launch date; September 24, 2026 was announced with preorders in May.",
+    "facts": [
+      "The March reveal confirmed the title, platforms and major systems.",
+      "The May preorder announcement supplied the September 24 date.",
+      "The June trailer announcement repeated that date."
+    ],
+    "boundary": "This separates the reveal date from the release-date announcement and avoids treating early coverage as a delay report. Exact store unlock hours still require platform data.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "release-date",
+    "slug": "which-announcement-confirmed-september-24",
+    "question": "Which Announcement Confirmed the September 24 Release Date?",
+    "answer": "Natsume’s May 12, 2026 preorder announcement first confirmed that Echoes of Teradea would launch on September 24, 2026.",
+    "facts": [
+      "The date applies to all five announced platform families.",
+      "The first official trailer reconfirmed it on June 18.",
+      "The Natsume Store currently displays the same date."
+    ],
+    "boundary": "Use the publisher announcement as the date source rather than a retailer countdown or an older undated reveal article.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "release-date",
+    "slug": "did-the-first-trailer-change-the-release-date",
+    "question": "Did the First Trailer Change the Release Date?",
+    "answer": "No. The June 18 first-trailer announcement repeated the already announced September 24, 2026 release date.",
+    "facts": [
+      "The date was first published in May.",
+      "The trailer added gameplay and world details.",
+      "It did not announce a delay or a staggered platform launch."
+    ],
+    "boundary": "A new trailer is not automatically a schedule change. Regional digital unlock times and physical delivery dates can still vary.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "release-date",
+    "slug": "is-september-24-a-global-release-date",
+    "question": "Is September 24 a Global Release Date?",
+    "answer": "Natsume presents September 24, 2026 as the shared release date for every announced platform, without publishing separate regional calendar dates.",
+    "facts": [
+      "Switch 2, Switch, PS5, Xbox Series X|S and Steam share the date.",
+      "No region-specific date table appears in the announcements.",
+      "Retailer availability can differ by country."
+    ],
+    "boundary": "The shared calendar date does not establish the exact hour in each time zone or guarantee same-day physical delivery.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "release-date",
+    "slug": "does-release-date-guarantee-preorder-delivery",
+    "question": "Does the Release Date Guarantee Preorder Delivery That Day?",
+    "answer": "No. September 24, 2026 is the game’s release date, while delivery timing is controlled by the selected retailer, shipping service and destination.",
+    "facts": [
+      "Natsume confirms the launch date.",
+      "Multiple retailers sell eligible physical editions.",
+      "The publisher announcement does not promise arrival-by-release-day shipping."
+    ],
+    "boundary": "Check the order page for its own delivery estimate; do not interpret the publisher date as a shipping guarantee.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "characters",
+    "slug": "are-there-five-bachelors-and-five-bachelorettes",
+    "question": "Are There Five Bachelors and Five Bachelorettes?",
+    "answer": "Yes. Natsume confirms ten new love interests, divided into five bachelors and five bachelorettes.",
+    "facts": [
+      "Relationship events are confirmed.",
+      "The player can choose a partner.",
+      "Marriage is part of the announced relationship system."
+    ],
+    "boundary": "The count is official, but Natsume has not yet published a complete candidate roster, gifts, birthdays or event requirements.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "characters",
+    "slug": "are-all-ten-love-interests-new",
+    "question": "Are All Ten Love Interests New Characters?",
+    "answer": "Natsume describes the romance roster as ten new love interests: five bachelors and five bachelorettes.",
+    "facts": [
+      "The wording appears in the first-trailer announcement.",
+      "The announcement separately names returning ally Doc Jr.",
+      "Named screenshot characters have not all been classified as candidates."
+    ],
+    "boundary": "Do not assume Lorelei, Mara, Bryce, Cindy, Amad, Lily or Rick is romanceable until Natsume identifies their roles.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "characters",
+    "slug": "which-character-names-appear-in-screenshots",
+    "question": "Which Character Names Appear in Current Screenshots?",
+    "answer": "Current retailer screenshots visibly name Lorelei, Mara, Bryce, Cindy, Amad, Lily and Rick.",
+    "facts": [
+      "Lorelei appears in dialogue about mine resources and union rules.",
+      "Mara uses captain and ocean language.",
+      "Bryce references a Maple Mart jam session with Cindy and Amad.",
+      "A quest objective mentions Lily and Rick."
+    ],
+    "boundary": "These names are visual evidence, not a complete cast list or proof of romance status, occupation, birthday or schedule.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "characters",
+    "slug": "is-lorelei-connected-to-the-mine",
+    "question": "Is Lorelei Connected to the Mine?",
+    "answer": "A current screenshot connects Lorelei to mine resources and union rules, but her exact job and home village are not yet stated.",
+    "facts": [
+      "Lorelei is visibly named in dialogue.",
+      "Her line refers to protecting mine resources.",
+      "The same line mentions following union rules."
+    ],
+    "boundary": "The screenshot supports a mine-related context only; it does not prove that Lorelei owns the mine, leads the union or is a romance candidate.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "characters",
+    "slug": "are-lily-and-rick-linked-by-a-quest",
+    "question": "Are Lily and Rick Linked by a Quest?",
+    "answer": "Yes. A visible quest objective asks the player to get Lily’s favorite treats that Rick requested.",
+    "facts": [
+      "Both names appear in the same objective.",
+      "The screenshot shows Bloomfield Village and Bloomfield Park labels.",
+      "A numerical objective counter is visible."
+    ],
+    "boundary": "The screenshot does not reveal the treat name, quest title, reward, trigger, deadline or either character’s broader role.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "features",
+    "slug": "does-echoes-of-teradea-have-photo-mode",
+    "question": "Does Echoes of Teradea Have Photo Mode?",
+    "answer": "Yes. A current gameplay screenshot shows an “Activate Photo Mode” command in the interface.",
+    "facts": [
+      "Photo Mode is explicitly named on screen.",
+      "The command appears alongside DocPad, song selection and outfit controls.",
+      "Natsume’s preorder announcement says its screenshots show new gameplay."
+    ],
+    "boundary": "Camera controls, filters, poses, hiding the UI and platform sharing options are not yet documented.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "features",
+    "slug": "can-you-change-your-outfit",
+    "question": "Can You Change Your Outfit?",
+    "answer": "Yes. A current interface screenshot includes a “Change Outfit” command.",
+    "facts": [
+      "The function is visible as a mapped command.",
+      "It appears in the same utility interface as Photo Mode.",
+      "No outfit catalog has been released."
+    ],
+    "boundary": "This confirms outfit changing, not the number of outfits, purchase locations, gender restrictions or customization depth.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "features",
+    "slug": "can-you-select-music",
+    "question": "Can You Select Music in the Game?",
+    "answer": "A current screenshot shows a “Select Song” command, confirming an in-game song-selection function.",
+    "facts": [
+      "The command is visible in the utility interface.",
+      "It is separate from Photo Mode and outfit changing.",
+      "No track list or unlock method is shown."
+    ],
+    "boundary": "The evidence does not establish whether songs play globally, only at camps, through an item, or require progression.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "features",
+    "slug": "does-the-interface-track-quest-objectives",
+    "question": "Does the Interface Track Quest Objectives?",
+    "answer": "Yes. Current screenshots show an active objective with an item counter and named destination information.",
+    "facts": [
+      "The objective names Lily and Rick.",
+      "A progress counter is displayed.",
+      "Bloomfield Village and Bloomfield Park location text is visible."
+    ],
+    "boundary": "Quest pinning, multi-quest tracking, map markers, automatic routing and accessibility options remain undocumented.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "features",
+    "slug": "does-the-hud-show-date-time-and-weather",
+    "question": "Does the HUD Show Date, Time, and Weather?",
+    "answer": "Yes. Current screenshots display an in-game time, weekday and date, plus weather text.",
+    "facts": [
+      "Examples show morning and afternoon clock times.",
+      "A weekday and numbered day are visible.",
+      "A Tornado Island screenshot includes weather text."
+    ],
+    "boundary": "The screenshots confirm the HUD elements but not day length, pause behavior, forecast range or weather probabilities.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "locations",
+    "slug": "is-wolf-hill-a-confirmed-location",
+    "question": "Is Wolf Hill a Confirmed Location?",
+    "answer": "Yes. A current gameplay screenshot shows an objective to investigate the Spirit Tree in Wolf Hill.",
+    "facts": [
+      "Wolf Hill is named directly in the objective.",
+      "The screenshot also displays Bloomfield Village.",
+      "A character or companion name, Milky, appears near the objective display."
+    ],
+    "boundary": "The screenshot does not establish Wolf Hill’s full map, entrance, enemies, rewards or relationship to Lupo.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "locations",
+    "slug": "is-tornado-island-a-confirmed-location",
+    "question": "Is Tornado Island a Confirmed Location?",
+    "answer": "Yes. Tornado Island is visibly named in a current retailer gameplay screenshot.",
+    "facts": [
+      "The location label appears on the HUD.",
+      "Weather text and an afternoon time are visible.",
+      "Official announcements separately confirm remote islands and powerful storms."
+    ],
+    "boundary": "The name is confirmed visually, but its access chart, treasure, animals, weather mechanics and quest order remain unknown.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "locations",
+    "slug": "is-bloomfield-park-in-the-game",
+    "question": "Is Bloomfield Park in the Game?",
+    "answer": "Yes. Bloomfield Park appears as a named destination in a current quest screenshot.",
+    "facts": [
+      "The screenshot also identifies Bloomfield Village.",
+      "The active objective involves Lily and Rick.",
+      "A directional location display is visible."
+    ],
+    "boundary": "The park’s exact map position, facilities, events, NPC schedule and unlock timing are not yet published.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "locations",
+    "slug": "what-is-maple-mart",
+    "question": "What Is Maple Mart?",
+    "answer": "Maple Mart is a named place referenced by Bryce in a screenshot describing a jam session with Cindy and Amad.",
+    "facts": [
+      "Maple Mart is visible in character dialogue.",
+      "The scene connects the location to music.",
+      "Cindy and Amad are named as participants in the referenced jam session."
+    ],
+    "boundary": "The image does not confirm whether Maple Mart is a shop, venue, district or building inside Maplehill.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "locations",
+    "slug": "are-there-spirit-trees",
+    "question": "Are There Spirit Trees in Echoes of Teradea?",
+    "answer": "At least one Spirit Tree is confirmed by a visible objective that sends the player to investigate it in Wolf Hill.",
+    "facts": [
+      "The objective uses the singular phrase “the Spirit Tree.”",
+      "Wolf Hill is the named destination.",
+      "Guardian Spirits and restoration are separately confirmed by Natsume."
+    ],
+    "boundary": "The screenshot does not state how many Spirit Trees exist, what they do or whether they are the same as Power Statues.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "faq",
+    "slug": "is-echoes-of-teradea-made-by-natsume",
+    "question": "Is Echoes of Teradea Made by Natsume?",
+    "answer": "Yes. Natsume announced Harvest Moon: Echoes of Teradea and identifies itself as the game’s developer and publisher.",
+    "facts": [
+      "The title was revealed through Natsume’s official press channel.",
+      "The Natsume Store carries the physical preorder.",
+      "The game belongs to Natsume’s current Harvest Moon line."
+    ],
+    "boundary": "This is distinct from the separate Story of Seasons series; do not merge characters or mechanics between the two franchises.",
+    "source": {
+      "label": "Natsume title announcement — March 11, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "faq",
+    "slug": "is-echoes-of-teradea-a-story-of-seasons-game",
+    "question": "Is Echoes of Teradea a Story of Seasons Game?",
+    "answer": "No. Echoes of Teradea is a Natsume-developed and published Harvest Moon game, not a Story of Seasons title.",
+    "facts": [
+      "Natsume is the named developer and publisher.",
+      "The official title uses the Harvest Moon brand.",
+      "Story of Seasons is a separate modern series."
+    ],
+    "boundary": "Similar farming-life themes do not make the games part of the same current franchise or guarantee shared systems.",
+    "source": {
+      "label": "Natsume title announcement — March 11, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "faq",
+    "slug": "is-this-a-good-entry-point-for-new-players",
+    "question": "Is Echoes of Teradea Designed for New Harvest Moon Players?",
+    "answer": "Natsume describes the game as an adventure for Harvest Moon fans and newcomers alike, so prior series knowledge is not presented as a requirement.",
+    "facts": [
+      "The story begins with a new protagonist raised in Bloomfield.",
+      "The game introduces a new world, villages and love interests.",
+      "The publisher explicitly mentions newcomers in its announcement."
+    ],
+    "boundary": "Difficulty, tutorials and accessibility options are not yet detailed, so this answer concerns story continuity rather than challenge level.",
+    "source": {
+      "label": "Natsume title announcement — March 11, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "faq",
+    "slug": "is-echoes-of-teradea-single-player",
+    "question": "Is Echoes of Teradea Single-Player?",
+    "answer": "Yes. The Natsume Store currently lists the game as “1 Player.”",
+    "facts": [
+      "The first-party product page provides the player-count field.",
+      "No co-op mode is described in the official announcements.",
+      "The published story is framed around one player character."
+    ],
+    "boundary": "This does not rule on unannounced online sharing or platform services; it confirms the current product classification.",
+    "source": {
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush",
+      "tier": "First-party product listing"
+    }
+  },
+  {
+    "hub": "faq",
+    "slug": "what-genre-is-echoes-of-teradea",
+    "question": "What Genre Is Echoes of Teradea?",
+    "answer": "Natsume’s store classifies the game as Simulation / Farming, while the announcements also emphasize open-world adventure and relationships.",
+    "facts": [
+      "Farming and raising animals remain core systems.",
+      "Exploration includes caves, islands and towns.",
+      "Romance, marriage and village restoration are confirmed."
+    ],
+    "boundary": "The store genre label should not be expanded into claims about combat, multiplayer or RPG statistics that Natsume has not announced.",
+    "source": {
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush",
+      "tier": "First-party product listing"
+    }
+  },
+  {
+    "hub": "guides",
+    "slug": "how-do-you-avoid-losing-collected-items",
+    "question": "How Do You Avoid Losing Collected Items in the Wilderness?",
+    "answer": "Natsume says players must evade or escape wolves, bears and tigers; being caught causes collected items to be lost and sends the player back to the farm.",
+    "facts": [
+      "Wild animals are active threats.",
+      "The consequence is item loss plus return to the farm.",
+      "Companions and expanded movement support exploration."
+    ],
+    "boundary": "Exact stealth, sprint, stamina, safe-zone and recovery mechanics need verified gameplay before a step-by-step route can be published.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "guides",
+    "slug": "what-can-animal-companions-help-you-do",
+    "question": "What Can Animal Companions Help You Do?",
+    "answer": "Animal companions can cross terrain, break rocks and fallen trees, reach hidden areas and uncover valuable treasures.",
+    "facts": [
+      "Different companions have different abilities.",
+      "Pets, animals and mounts can join adventures.",
+      "Companion utility is part of open-world traversal."
+    ],
+    "boundary": "The complete animal-to-ability table and unlock conditions have not yet been released.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "guides",
+    "slug": "can-you-cook-and-sleep-from-the-camp-menu",
+    "question": "Can You Cook and Sleep from the Camp Interface?",
+    "answer": "Yes. A current interface screenshot visibly includes both “Cook” and “Sleep” commands, matching Natsume’s campsite description.",
+    "facts": [
+      "Official text confirms campfire cooking.",
+      "Official text confirms resting and stamina recovery.",
+      "The screenshot shows mapped Cook and Sleep commands."
+    ],
+    "boundary": "The image does not reveal time cost, stamina values, recipe requirements or restrictions on sleeping away from the farm.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "guides",
+    "slug": "how-do-you-open-photo-mode",
+    "question": "How Do You Open Photo Mode?",
+    "answer": "A current screenshot shows Photo Mode as a directly mapped interface command, although final platform-specific controls have not been documented.",
+    "facts": [
+      "“Activate Photo Mode” is visible on screen.",
+      "The displayed prompt is part of a utility command layout.",
+      "Control labels may differ by platform."
+    ],
+    "boundary": "Use the final in-game control guide for the exact button; the screenshot confirms access, not a universal controller mapping.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "guides",
+    "slug": "how-do-you-find-the-spirit-tree-at-wolf-hill",
+    "question": "How Do You Find the Spirit Tree at Wolf Hill?",
+    "answer": "A current screenshot confirms Wolf Hill as the objective destination, but it does not show a complete route or map coordinates.",
+    "facts": [
+      "The objective is “Investigate the Spirit Tree in Wolf Hill.”",
+      "Bloomfield Village is shown as the broader area.",
+      "A directional HUD element is visible."
+    ],
+    "boundary": "A reliable walkthrough must wait for a verified map, entrance, landmarks and quest trigger instead of inventing directions from one screenshot.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  },
+  {
+    "hub": "platforms",
+    "slug": "are-switch-and-switch-2-separate-versions",
+    "question": "Are Nintendo Switch and Switch 2 Separate Versions?",
+    "answer": "Yes. Natsume lists Nintendo Switch and Nintendo Switch 2 separately and offers distinct physical preorder variants.",
+    "facts": [
+      "Both systems are named in the platform lineup.",
+      "Both have physical preorder editions.",
+      "No free or paid upgrade path is described."
+    ],
+    "boundary": "Separate listings do not by themselves reveal performance differences, cartridge contents or save-transfer rules.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-the-pc-version-steam-only",
+    "question": "Is Steam the Confirmed PC Storefront?",
+    "answer": "Yes. Every official platform list reviewed names PC via Steam; no other PC storefront has been announced.",
+    "facts": [
+      "Steam appears in the March platform reveal.",
+      "Steam shares the September 24 release date.",
+      "The press releases do not name Epic Games Store, GOG or Microsoft Store for PC."
+    ],
+    "boundary": "This records the current announced storefront and does not claim other PC versions are permanently ruled out.",
+    "source": {
+      "label": "Natsume title announcement — March 11, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-there-a-physical-xbox-edition",
+    "question": "Is There a Physical Xbox Edition?",
+    "answer": "Natsume confirms Xbox Series X|S as a launch platform, but its physical preorder announcement names only Switch 2, Switch and PS5.",
+    "facts": [
+      "Xbox Series X|S remains in the September 24 lineup.",
+      "The listed physical variants exclude Xbox.",
+      "Digital preorder timing is not fully detailed."
+    ],
+    "boundary": "Treat physical Xbox availability as unannounced, not cancelled; only a later publisher or retailer listing can confirm it.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-there-a-physical-pc-edition",
+    "question": "Is There a Physical PC Edition?",
+    "answer": "No physical PC edition is listed in Natsume’s current preorder announcement; the confirmed PC storefront is Steam.",
+    "facts": [
+      "Steam is the named PC release channel.",
+      "Physical preorders cover Switch 2, Switch and PS5.",
+      "No boxed PC SKU is announced."
+    ],
+    "boundary": "This is a current availability answer and should be updated if Natsume announces a boxed collector or retail edition.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "platforms",
+    "slug": "are-switch-2-performance-details-confirmed",
+    "question": "Are Switch 2 Performance Details Confirmed?",
+    "answer": "No technical targets for the Switch 2 version have been published in Natsume’s current announcements.",
+    "facts": [
+      "Switch 2 is a confirmed launch platform.",
+      "A physical Switch 2 version is available to preorder.",
+      "No resolution, frame-rate or loading comparison is supplied."
+    ],
+    "boundary": "A confirmed version is not evidence of 4K, 60 fps, special controls or a performance mode.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "preorder",
+    "slug": "what-is-the-official-store-price",
+    "question": "What Is the Natsume Store Preorder Price?",
+    "answer": "The Natsume Store currently lists the physical game at $49.99 for its available Switch 2, Switch and PS5 variants.",
+    "facts": [
+      "The product page presents platform variants.",
+      "The page promotes the Lupo plush offer.",
+      "Taxes and shipping are separate checkout variables."
+    ],
+    "boundary": "Price, stock and shipping eligibility can change; buyers should verify the live cart before ordering.",
+    "source": {
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush",
+      "tier": "First-party product listing"
+    }
+  },
+  {
+    "hub": "preorder",
+    "slug": "is-the-lupo-plush-guaranteed",
+    "question": "Is the Lupo Plush Guaranteed with Every Natsume Store Order?",
+    "answer": "No. Natsume states that the Lupo baby wolf plush is available while supplies last.",
+    "facts": [
+      "The plush is identified as a preorder bonus.",
+      "Lupo is called the Bloomfield Guardian.",
+      "No remaining-stock counter or restock promise is published."
+    ],
+    "boundary": "Confirm the bonus appears in the live offer or checkout; the wording does not guarantee availability for every order.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "preorder",
+    "slug": "can-you-preorder-from-best-buy",
+    "question": "Can You Preorder Echoes of Teradea from Best Buy?",
+    "answer": "Yes. Best Buy is one of the retailers named by Natsume, and it currently has product listings for supported physical console versions.",
+    "facts": [
+      "Best Buy is named in the June announcement.",
+      "Its listing shows a September 24 release date.",
+      "The retailer gallery contains gameplay screenshots."
+    ],
+    "boundary": "Stock, pickup, price and bonus terms are retailer-specific; the Natsume Store plush should not be assumed.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "preorder",
+    "slug": "which-retailers-did-natsume-name",
+    "question": "Which Retailers Did Natsume Name for Preorders?",
+    "answer": "Natsume names Amazon, the Natsume Store, Target, Walmart, Best Buy and GameStop.",
+    "facts": [
+      "Amazon and Natsume Store were named in May.",
+      "Target, Walmart, Best Buy and GameStop were added or repeated in June.",
+      "Platform selection varies by seller."
+    ],
+    "boundary": "The list does not guarantee every retailer serves every region or carries every physical version.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "preorder",
+    "slug": "does-the-listed-price-include-shipping-and-tax",
+    "question": "Does the Listed Price Include Shipping and Tax?",
+    "answer": "The displayed product price is not a universal delivered total; taxes, shipping and import costs depend on the retailer and destination.",
+    "facts": [
+      "Natsume Store shows a base product price.",
+      "The publisher announcement does not promise free worldwide shipping.",
+      "International availability can differ."
+    ],
+    "boundary": "Review the final checkout total and cancellation terms before purchase, especially for imports.",
+    "source": {
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush",
+      "tier": "First-party product listing"
+    }
+  },
+  {
+    "hub": "demo",
+    "slug": "has-a-public-demo-been-announced",
+    "question": "Has a Public Echoes of Teradea Demo Been Announced?",
+    "answer": "No public playable demo appears in Natsume’s March, May or June announcements, and no later demo announcement was found through July 26, 2026.",
+    "facts": [
+      "The game announcement describes features.",
+      "The preorder announcement opens physical orders.",
+      "The June release is a trailer, not a playable build."
+    ],
+    "boundary": "Only Natsume or a verified platform-store download should be treated as a real demo; unofficial “demo key” claims are not evidence.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "demo",
+    "slug": "is-there-a-steam-demo",
+    "question": "Is There a Steam Demo?",
+    "answer": "Steam is a confirmed launch storefront, but Natsume has not announced a downloadable Steam demo or Next Fest build.",
+    "facts": [
+      "PC via Steam is in the official platform list.",
+      "No demo window appears in the announcements.",
+      "The September 24 full-game date remains confirmed."
+    ],
+    "boundary": "A Steam release listing does not automatically include a demo; check the verified store page for any future download button.",
+    "source": {
+      "label": "Natsume title announcement — March 11, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "demo",
+    "slug": "is-there-a-switch-or-switch-2-demo",
+    "question": "Is There a Switch or Switch 2 Demo?",
+    "answer": "No Nintendo eShop demo has been announced for either Switch generation.",
+    "facts": [
+      "Switch and Switch 2 full versions are confirmed.",
+      "Physical preorders are available for both.",
+      "A preorder listing is not a free trial."
+    ],
+    "boundary": "Demo availability, file size, regions and whether both systems would share a build remain unknown.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "demo",
+    "slug": "is-there-a-ps5-or-xbox-trial",
+    "question": "Is There a PS5 or Xbox Trial?",
+    "answer": "No PS5 or Xbox Series X|S trial, timed demo or subscription preview has been announced.",
+    "facts": [
+      "Both console families are confirmed launch platforms.",
+      "PS5 has a named physical preorder version.",
+      "No PlayStation Plus or Game Pass trial is described."
+    ],
+    "boundary": "Platform release, physical availability, subscription access and demo access are separate statuses.",
+    "source": {
+      "label": "Natsume title announcement — March 11, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "demo",
+    "slug": "will-demo-progress-carry-over",
+    "question": "Will Demo Progress Carry Over to the Full Game?",
+    "answer": "There are no save-transfer rules because no public demo has been announced.",
+    "facts": [
+      "No verified demo currently creates transferable progress.",
+      "The trailer does not describe a trial-save system.",
+      "No preorder reward is tied to demo completion."
+    ],
+    "boundary": "Farm, character, item and settings carry-over claims are unsupported until Natsume publishes a demo and its rules.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "game-status",
+    "slug": "what-is-the-current-player-count",
+    "question": "What Is the Current Official Player Count?",
+    "answer": "The Natsume Store lists Echoes of Teradea as a one-player game.",
+    "facts": [
+      "The product metadata states “Players: 1 Player.”",
+      "No multiplayer system is described in official announcements.",
+      "The current classification applies across the product listing."
+    ],
+    "boundary": "The listing does not answer every possible online-service question, but it is the strongest current evidence for player count.",
+    "source": {
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush",
+      "tier": "First-party product listing"
+    }
+  },
+  {
+    "hub": "game-status",
+    "slug": "what-is-the-current-esrb-rating",
+    "question": "What Is the Current ESRB Rating?",
+    "answer": "The Natsume Store and current retailer listing show RP, meaning Rating Pending.",
+    "facts": [
+      "RP is not a final age category.",
+      "No final content descriptors are displayed.",
+      "Retail packaging metadata can update before launch."
+    ],
+    "boundary": "Parents and buyers should recheck the final ESRB listing closer to September 24.",
+    "source": {
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush",
+      "tier": "First-party product listing"
+    }
+  },
+  {
+    "hub": "game-status",
+    "slug": "what-platforms-are-currently-confirmed",
+    "question": "What Platforms Are Currently Confirmed?",
+    "answer": "The confirmed lineup is Nintendo Switch 2, Nintendo Switch, PlayStation 5, Xbox Series X|S and PC via Steam.",
+    "facts": [
+      "All five platform families share the September 24 date.",
+      "PS4 and Xbox One are not named.",
+      "Steam is the only announced PC storefront."
+    ],
+    "boundary": "This list records announced platforms without treating unannounced systems as cancelled ports.",
+    "source": {
+      "label": "Natsume first-trailer announcement — June 18, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "game-status",
+    "slug": "what-physical-editions-are-currently-confirmed",
+    "question": "What Physical Editions Are Currently Confirmed?",
+    "answer": "Physical editions are currently confirmed for Nintendo Switch 2, Nintendo Switch and PlayStation 5.",
+    "facts": [
+      "These variants are named by Natsume.",
+      "Xbox Series X|S and Steam are still launch platforms.",
+      "No physical Xbox or PC edition is listed."
+    ],
+    "boundary": "Physical and digital availability should be tracked separately because the platform lineup is broader than the boxed-edition lineup.",
+    "source": {
+      "label": "Natsume preorder announcement — May 12, 2026",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf",
+      "tier": "Official publisher announcement"
+    }
+  },
+  {
+    "hub": "game-status",
+    "slug": "what-named-characters-are-currently-confirmed",
+    "question": "Which Named Characters Are Currently Confirmed?",
+    "answer": "Official text names the Harvest Goddess, Doc Jr. and Lupo; current screenshots also show Lorelei, Mara, Bryce, Cindy, Amad, Lily and Rick.",
+    "facts": [
+      "The three official-text names have described roles or context.",
+      "The seven screenshot names are directly visible in dialogue or objectives.",
+      "Ten romance candidates are confirmed but not fully named."
+    ],
+    "boundary": "The evidence does not classify every screenshot character as a villager, candidate, merchant or quest giver.",
+    "source": {
+      "label": "Best Buy product listing and screenshot gallery",
+      "url": "https://www.bestbuy.com/product/harvest-moon-echoes-of-teradea-nintendo-switch/JXT5SL668Y",
+      "tier": "Current retailer listing and visual evidence"
+    }
+  }
+]
