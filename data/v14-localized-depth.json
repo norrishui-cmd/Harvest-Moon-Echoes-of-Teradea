@@ -1,0 +1,632 @@
+[
+  {
+    "route": "/buying-guide/",
+    "group": "Buying",
+    "source": "store",
+    "de": [
+      "Kaufberatung für Echoes of Teradea",
+      "Diese Kaufberatung trennt bestätigte Plattformen, physische Angebote, Händlerbedingungen und offene Digitalfragen, damit du vor einer Bestellung keine Annahme mit einer Zusage verwechselst.",
+      "Der 24. September 2026 ist für Switch 2, Switch, PS5, Xbox Series X|S und Steam bestätigt.",
+      "Der Natsume Store listet physische Varianten für Switch, Switch 2 und PS5 zum Basispreis von 49,99 US-Dollar.",
+      "Versand, Steuern, regionale Verfügbarkeit und digitale Freischaltzeiten sind keine einheitlich bestätigten Werte.",
+      "Nutze die Unterseiten für Preis, Versand und Importprüfung; kontrolliere den endgültigen Warenkorb unmittelbar vor dem Kauf."
+    ],
+    "ja": [
+      "Echoes of Teradea購入ガイド",
+      "この購入ガイドは、確認済み機種、パッケージ商品、販売店条件、未確定のデジタル情報を分け、予約前の思い込みを防ぎます。",
+      "2026年9月24日の発売はSwitch 2、Switch、PS5、Xbox Series X|S、Steam向けに確認済みです。",
+      "Natsume StoreはSwitch、Switch 2、PS5のパッケージ版を基本価格49.99米ドルで掲載しています。",
+      "送料、税金、地域別販売、デジタル解禁時刻は共通条件として確定していません。",
+      "価格・配送・輸入の各ページを使い、注文直前に必ずカートの最終条件を確認してください。"
+    ]
+  },
+  {
+    "route": "/buying-guide/international-region-and-import-checklist/",
+    "group": "Buying",
+    "source": "store",
+    "de": [
+      "Import- und Regionscheckliste",
+      "Prüfe vor einem Import Plattformvariante, Händler-Liefergebiet, Endpreis, Einfuhrkosten und Bonusanzeige; ein offizielles US-Angebot ist keine weltweite Lieferzusage.",
+      "Die offiziellen Ankündigungen nennen Plattformen und Datum, aber keine vollständige Ländermatrix.",
+      "Der Natsume Store weist getrennte Konsolenvarianten und eigene Versandregeln aus.",
+      "Der Lupo-Bonus gilt nur solange der Vorrat reicht und muss im aktuellen Angebot sichtbar sein.",
+      "Regionale digitale Kompatibilität, Sprache auf dem Datenträger und lokale Garantiebedingungen müssen beim jeweiligen Händler geprüft werden."
+    ],
+    "ja": [
+      "海外購入・リージョン確認リスト",
+      "輸入前に機種版、配送対象国、支払総額、関税、特典表示を確認してください。米国の公式商品ページは世界配送の保証ではありません。",
+      "公式発表は機種と発売日を示しますが、国別の販売一覧は公開していません。",
+      "Natsume Storeは機種ごとの商品と独自の配送規約を掲載しています。",
+      "Lupo特典は在庫限りで、現在の商品表示に含まれるか確認が必要です。",
+      "デジタル版の地域互換、収録言語、現地保証は販売店または各プラットフォームで確認してください。"
+    ]
+  },
+  {
+    "route": "/buying-guide/natsume-store-price-and-variants/",
+    "group": "Buying",
+    "source": "store",
+    "de": [
+      "Natsume-Store-Preis und Varianten",
+      "Der Natsume Store zeigt derzeit 49,99 US-Dollar als Basispreis und getrennte Auswahlmöglichkeiten für Switch, Switch 2 und PS5.",
+      "Der Preis bezieht sich auf die aktuell ausgewählte Produktvariante.",
+      "Steuern und Versand werden nicht als weltweit einheitlicher Endpreis bestätigt.",
+      "Xbox Series X|S und Steam sind als Spielplattformen angekündigt, erscheinen aber nicht in dieser physischen Variantenauswahl.",
+      "Vergleiche Plattformbezeichnung, Bonus und Endbetrag im Warenkorb; behandle die Live-Produktseite als veränderliche Händlerangabe."
+    ],
+    "ja": [
+      "Natsume Storeの価格と機種版",
+      "Natsume Storeは現在、基本価格49.99米ドルでSwitch、Switch 2、PS5を別々の選択肢として掲載しています。",
+      "価格は選択中の商品バリエーションに対する表示です。",
+      "税金と送料を含む世界共通の最終価格ではありません。",
+      "Xbox Series X|SとSteamは対応機種として発表済みですが、このパッケージ版選択には表示されません。",
+      "カートで機種名、特典、最終金額を確認し、商品ページの情報は更新され得る販売店条件として扱ってください。"
+    ]
+  },
+  {
+    "route": "/buying-guide/natsume-store-shipping-and-cancellation/",
+    "group": "Buying",
+    "source": "store",
+    "de": [
+      "Versand- und Stornoregeln des Natsume Store",
+      "Der Store warnt, dass Vorbestellungen nach drei Werktagen nicht storniert werden können und eine Lieferung am Erscheinungstag nicht garantiert ist.",
+      "Bestellungen mit Vorbestellungs- und Lagerartikeln werden bis zur vollständigen Verfügbarkeit zurückgehalten.",
+      "Die Produktseite empfiehlt getrennte Bestellungen für schnelleren Versand lagernder Artikel.",
+      "Adressänderungen erfordern laut Richtlinie eine Kontaktaufnahme mit dem Support.",
+      "Diese Regeln gelten für den Natsume Store; andere Händler können abweichende Fristen, Gebühren und Lieferzusagen haben."
+    ],
+    "ja": [
+      "Natsume Storeの配送・キャンセル規約",
+      "同ストアは、予約から3営業日後はキャンセル不可で、発売日到着も保証しないと案内しています。",
+      "予約商品と在庫商品を同時注文すると、すべて揃うまで発送されません。",
+      "在庫品を早く受け取りたい場合は注文を分けるよう商品ページに記載されています。",
+      "住所変更はサポートへの連絡が必要です。",
+      "これはNatsume Store固有の規約で、他店の期限、手数料、配送条件は異なる場合があります。"
+    ]
+  },
+  {
+    "route": "/characters/amad/",
+    "group": "Characters",
+    "source": "bestbuy",
+    "de": [
+      "Amad – Charakterprofil",
+      "Amads Name ist in einem veröffentlichten Gameplay-Screenshot im Zusammenhang mit einer Jam-Session im Maple Mart sichtbar; seine genaue Rolle ist noch nicht offiziell erklärt.",
+      "Bryces Dialog nennt Cindy und Amad gemeinsam.",
+      "Der Schauplatz Maple Mart wird im selben Satz erwähnt.",
+      "Der Screenshot bestätigt eine soziale Verbindung, aber keinen Beruf oder Romanzenstatus.",
+      "Geburtstag, Geschenke, Tagesplan, Wohnort und Beziehungsereignisse bleiben bis zu einer offiziellen Vorstellung offen."
+    ],
+    "ja": [
+      "Amad キャラクター情報",
+      "Amadの名前は、Maple Martでのジャムセッションに関する公開ゲーム画面で確認できますが、詳しい役割はまだ公式説明されていません。",
+      "Bryceの台詞でCindyとAmadが一緒に挙げられます。",
+      "同じ文章にMaple Martという場所名があります。",
+      "画面から交流関係は確認できますが、職業や恋愛候補とは断定できません。",
+      "誕生日、好物、行動予定、居住地、恋愛イベントは公式紹介まで未確定です。"
+    ]
+  },
+  {
+    "route": "/characters/cindy/",
+    "group": "Characters",
+    "source": "bestbuy",
+    "de": [
+      "Cindy – Charakterprofil",
+      "Cindy wird in Bryces Dialog über eine Jam-Session im Maple Mart namentlich erwähnt; weitere Charakterdaten sind noch nicht veröffentlicht.",
+      "Cindy und Amad erscheinen im selben Dialogzusammenhang.",
+      "Maple Mart liefert einen bestätigten sozialen Schauplatz.",
+      "Der Name im Screenshot belegt keine Heiratsfähigkeit.",
+      "Beruf, Dorf, Familie, Geburtstag, Vorlieben und Eventbedingungen dürfen aus dem kurzen Dialog nicht abgeleitet werden."
+    ],
+    "ja": [
+      "Cindy キャラクター情報",
+      "Cindyは、Maple Martでのジャムセッションを語るBryceの台詞に登場しますが、その他の人物情報はまだ公開されていません。",
+      "同じ会話でCindyとAmadの名前が確認できます。",
+      "Maple Martは交流場所として画面上に示されています。",
+      "名前が出たことだけでは結婚候補とは確認できません。",
+      "職業、村、家族、誕生日、好物、イベント条件を短い台詞から推測しません。"
+    ]
+  },
+  {
+    "route": "/characters/lily/",
+    "group": "Characters",
+    "source": "bestbuy",
+    "de": [
+      "Lily – Charakterprofil",
+      "Lily erscheint in einem Questziel, das nach ihren Lieblingssnacks fragt; der konkrete Snack und ihre größere Rolle sind noch unbekannt.",
+      "Das Ziel wurde laut sichtbarem Text von Rick angefragt.",
+      "Ein Fortschrittszähler zeigt, dass Gegenstände gesammelt werden.",
+      "Bloomfield Village und Bloomfield Park sind im selben Bildschirm sichtbar.",
+      "Der Screenshot bestätigt weder Geschenklisten noch Geburtstag, Romanzenstatus, Questbelohnung oder Aufenthaltsplan."
+    ],
+    "ja": [
+      "Lily キャラクター情報",
+      "Lilyは好きなおやつを集めるクエスト目標に登場しますが、具体的なおやつ名や人物としての詳しい役割は不明です。",
+      "表示文ではRickから頼まれた目標と読めます。",
+      "進行カウンターからアイテム収集型であることが分かります。",
+      "同じ画面にBloomfield VillageとBloomfield Parkが表示されています。",
+      "好物一覧、誕生日、恋愛候補、報酬、行動予定までは確認できません。"
+    ]
+  },
+  {
+    "route": "/characters/rick/",
+    "group": "Characters",
+    "source": "bestbuy",
+    "de": [
+      "Rick – Charakterprofil",
+      "Rick ist als Auftraggeber eines sichtbaren Ziels genannt, bei dem Lilys Lieblingssnacks beschafft werden sollen.",
+      "Rick und Lily stehen im selben Questtext.",
+      "Das Ziel verwendet einen numerischen Sammelfortschritt.",
+      "Der Bildschirm ordnet die Aufgabe dem Raum Bloomfield zu.",
+      "Questtitel, Auslöser, Belohnung, Frist, Beruf und Beziehungsrolle von Rick sind noch nicht dokumentiert."
+    ],
+    "ja": [
+      "Rick キャラクター情報",
+      "Rickは、Lilyの好きなおやつを集める表示中の目標で依頼者として名前が出ています。",
+      "RickとLilyは同じクエスト文に登場します。",
+      "目標には数値の収集進行が表示されています。",
+      "画面上ではBloomfield周辺の課題として示されています。",
+      "クエスト名、発生条件、報酬、期限、職業、恋愛上の役割は未公開です。"
+    ]
+  },
+  {
+    "route": "/exploration/",
+    "group": "Exploration",
+    "source": "announce",
+    "de": [
+      "Erkundungszentrum",
+      "Die bestätigte Erkundung verbindet offene Regionen, Höhlen, entfernte Inseln, Bewegung, Tierfähigkeiten und Lagerplätze zu einem zusammenhängenden Reiseablauf.",
+      "Spieler können springen, Leitern erklimmen und an Ranken hochsteigen.",
+      "Tierbegleiter helfen beim Überwinden von Gelände und Zerstören von Hindernissen.",
+      "Nautische Karten führen zu Inseln; Lager dienen zum Schlafen, Kochen und Erholen.",
+      "Exakte Karten, Freischaltreihenfolge, Fundorte und optimale Routen werden erst mit verifizierten Spieldaten ergänzt."
+    ],
+    "ja": [
+      "探索ガイドセンター",
+      "確認済みの探索要素は、広い地域、洞窟、離島、移動能力、動物の力、キャンプを一つの旅の流れとして結びます。",
+      "ジャンプ、はしご、つる登りが発表されています。",
+      "動物の仲間は地形移動や障害物破壊を助けます。",
+      "海図で離島へ向かい、キャンプでは睡眠、料理、回復ができます。",
+      "正確な地図、解放順、入手場所、最適ルートは検証済みゲームデータ入手後に追加します。"
+    ]
+  },
+  {
+    "route": "/exploration/animal-companion-obstacle-planning/",
+    "group": "Exploration",
+    "source": "announce",
+    "de": [
+      "Tierfähigkeiten und Hindernisplanung",
+      "Plane Hindernisse nach bestätigtem Fähigkeitstyp: Tiere helfen beim Springen über Gelände, Brechen von Felsen oder umgestürzten Bäumen und Finden verborgener Schätze.",
+      "Begleiter sind mehr als kosmetische Haustiere.",
+      "Unterschiedliche Tiere besitzen besondere Erkundungsfähigkeiten.",
+      "Seltene Tiere kommen auch auf entfernten Inseln vor.",
+      "Welche Art welches konkrete Hindernis löst, sowie Voraussetzungen und Abklingzeiten sind noch nicht veröffentlicht."
+    ],
+    "ja": [
+      "動物能力と障害物攻略計画",
+      "確認済みの能力別に障害物を整理できます。動物は地形越え、岩や倒木の破壊、隠された宝の発見を助けます。",
+      "仲間は見た目だけのペットではありません。",
+      "動物ごとに特別な探索能力があります。",
+      "離島には本土にいない珍しい動物もいます。",
+      "どの動物がどの障害物に対応するか、条件や再使用時間はまだ公開されていません。"
+    ]
+  },
+  {
+    "route": "/exploration/maze-cave-mining-expedition/",
+    "group": "Exploration",
+    "source": "store",
+    "de": [
+      "Planung einer Höhlen- und Minenexpedition",
+      "Mazeartige Höhlen mit Erz und Edelsteinen sind bestätigt; eine belastbare Route kombiniert Ausdauerreserve, Lageroptionen und freie Inventarplätze.",
+      "Die offizielle Produktbeschreibung nennt Erz und Edelsteine ausdrücklich.",
+      "Lagerplätze können Ausdauer wiederherstellen und Mahlzeiten ermöglichen.",
+      "Tierfähigkeiten können bei Hindernissen und verborgenen Bereichen helfen.",
+      "Etagenzahl, Erzlisten, Werkzeugstufen, Respawn und exakte Fundorte sind noch nicht bekannt."
+    ],
+    "ja": [
+      "迷路洞窟・採掘遠征ガイド",
+      "鉱石と宝石がある迷路状の洞窟は確認済みです。遠征では体力の余裕、キャンプ利用、空き持ち物枠を組み合わせて考えます。",
+      "公式商品説明に鉱石と宝石が明記されています。",
+      "キャンプでは体力回復と料理ができます。",
+      "動物能力は障害物や隠し場所の探索に役立ちます。",
+      "階層数、鉱石一覧、道具段階、再出現、正確な採掘場所はまだ不明です。"
+    ]
+  },
+  {
+    "route": "/exploration/remote-island-expedition-loop/",
+    "group": "Exploration",
+    "source": "store",
+    "de": [
+      "Ablauf einer Insel-Expedition",
+      "Entfernte Inseln werden über nautische Karten erreicht und bieten seltene Tiere sowie Sammelmöglichkeiten, die nicht auf dem Festland vorkommen.",
+      "Nautische Karten sind als Zugangsmittel bestätigt.",
+      "Die Inseln erweitern Tier- und Sammelziele jenseits des Festlands.",
+      "Lager und Ausdauerplanung gehören zum längeren Reiseablauf.",
+      "Kartennamen, Abfahrtsorte, Wettergrenzen, Inselanzahl und vollständige Belohnungen sind noch nicht veröffentlicht."
+    ],
+    "ja": [
+      "離島遠征の流れ",
+      "離島は海図を使って到達し、本土では見つからない珍しい動物や収集対象があると説明されています。",
+      "海図が島への到達手段として確認されています。",
+      "島は本土外の動物・収集目標を増やします。",
+      "長い旅ではキャンプと体力管理が関係します。",
+      "海図名、出航地点、天候制限、島数、報酬一覧はまだ公開されていません。"
+    ]
+  },
+  {
+    "route": "/exploration/wild-animal-risk-and-item-loss/",
+    "group": "Exploration",
+    "source": "announce",
+    "de": [
+      "Wildtierrisiko und Gegenstandsverlust",
+      "Nächtliche Wölfe und andere wilde Tiere sind eine bestätigte Gefahr; erwischt zu werden kann zum Verlust gesammelter Gegenstände führen.",
+      "Wilde Wölfe erscheinen außerhalb von Bloomfield Village bei Nacht.",
+      "Die Erkundungsbeschreibung warnt vor dem Verlust gesammelter Gegenstände.",
+      "Lager und Reiseplanung können das Risiko längerer Ausflüge begrenzen.",
+      "Verlustformel, Schutzgegenstände, Rückholmechanik und genaue sichere Zonen sind noch nicht dokumentiert."
+    ],
+    "ja": [
+      "野生動物の危険とアイテム損失",
+      "夜のオオカミなど野生動物は確認済みの危険で、捕まると集めたアイテムを失う可能性があります。",
+      "Bloomfield Villageの外では夜に野生のオオカミが現れます。",
+      "探索説明は収集品を失う危険に触れています。",
+      "キャンプと移動計画で長距離探索の危険を抑えられます。",
+      "損失量、保護アイテム、回収方法、安全地帯の詳細はまだ不明です。"
+    ]
+  },
+  {
+    "route": "/interface/",
+    "group": "Interface",
+    "source": "bestbuy",
+    "de": [
+      "Interface- und Bedienzentrum",
+      "Veröffentlichte Screenshots bestätigen DocPad, Fotomodus, Songauswahl, Outfit-Wechsel, Questverfolgung sowie Anzeigen für Uhrzeit, Datum, Wetter und Gebiet.",
+      "Die Befehle sind direkt in einer sichtbaren Bedienoberfläche benannt.",
+      "Questziele enthalten Fortschrittszähler und Ortsangaben.",
+      "Das HUD zeigt Tageszeit, Wochentag, Datum und Wettertext.",
+      "Tastenbelegung, Anpassungsoptionen, Filter und plattformspezifische Unterschiede sind noch nicht vollständig dokumentiert."
+    ],
+    "ja": [
+      "画面・操作ガイドセンター",
+      "公開ゲーム画面からDocPad、Photo Mode、曲選択、衣装変更、クエスト追跡、時刻・日付・天気・地域表示を確認できます。",
+      "各コマンド名が操作画面に直接表示されています。",
+      "クエスト目標には進行数と場所名があります。",
+      "HUDには時刻、曜日、日付、天気が表示されます。",
+      "ボタン配置、カスタマイズ、フィルター、機種別差異はまだ完全には公開されていません。"
+    ]
+  },
+  {
+    "route": "/interface/change-outfit/",
+    "group": "Interface",
+    "source": "bestbuy",
+    "de": [
+      "Outfit wechseln und Anpassung",
+      "Ein Screenshot zeigt den Befehl „Change Outfit“ und bestätigt damit einen direkten Kleidungswechsel im Interface.",
+      "Der Befehl steht neben anderen Hilfsfunktionen.",
+      "Die Funktion ist von Foto- und Musiksteuerung getrennt.",
+      "Ein vollständiger Kleidungs- oder Anpassungskatalog ist nicht sichtbar.",
+      "Anzahl, Bezugsquellen, Geschlechtsbeschränkungen, Speicherplätze und Freischaltbedingungen bleiben offen."
+    ],
+    "ja": [
+      "衣装変更とカスタマイズ",
+      "画面に「Change Outfit」コマンドがあり、インターフェースから衣装を変更できることを確認できます。",
+      "他の便利機能と並ぶ独立したコマンドです。",
+      "写真や音楽の操作とは分かれています。",
+      "衣装・外見変更の完全な一覧は表示されていません。",
+      "衣装数、入手先、制限、保存枠、解放条件は未公開です。"
+    ]
+  },
+  {
+    "route": "/interface/clock-calendar-and-weather/",
+    "group": "Interface",
+    "source": "bestbuy",
+    "de": [
+      "Uhr, Kalender und Wetter im HUD",
+      "Das HUD zeigt Spielzeit, Wochentag, Tagesnummer und Wettertext und liefert damit die Grundlage für Tages- und Reiseplanung.",
+      "Screenshots enthalten Vor- und Nachmittagszeiten.",
+      "Wochentag und Kalendertag sind gleichzeitig sichtbar.",
+      "Auf Tornado Island erscheint zusätzlich eine Wetterangabe.",
+      "Tageslänge, Pausenregeln, Vorhersage, Saisonkalender und Wetterwahrscheinlichkeiten sind noch nicht erklärt."
+    ],
+    "ja": [
+      "時計・カレンダー・天気表示",
+      "HUDにはゲーム内時刻、曜日、日数、天気が表示され、日課や探索計画の基礎になります。",
+      "午前と午後の時刻例が公開画面にあります。",
+      "曜日と日付が同時に表示されます。",
+      "Tornado Islandの画面には天気情報もあります。",
+      "1日の長さ、一時停止中の時間、予報、季節カレンダー、天候確率は未説明です。"
+    ]
+  },
+  {
+    "route": "/interface/map-and-area-labels/",
+    "group": "Interface",
+    "source": "bestbuy",
+    "de": [
+      "Karten- und Gebietsbezeichnungen",
+      "Aktuelle Screenshots zeigen konkrete Gebietslabels wie Bloomfield Village, Bloomfield Park und Tornado Island sowie Richtungsinformationen.",
+      "Ortsnamen werden direkt im HUD oder Questbereich angezeigt.",
+      "Questtexte können Zielgebiet und Fortschritt gemeinsam darstellen.",
+      "Die Labels helfen, bestätigte Namen von Fanbezeichnungen zu trennen.",
+      "Eine vollständige Weltkarte, Markerfilter, Schnellreise, Zoomstufen und Koordinaten sind noch nicht veröffentlicht."
+    ],
+    "ja": [
+      "地図・エリア名表示",
+      "現在の画面にはBloomfield Village、Bloomfield Park、Tornado Islandなどの地域名と方向情報が表示されています。",
+      "場所名はHUDまたはクエスト欄に直接出ます。",
+      "目標地域と進行状況が同じ画面に表示される例があります。",
+      "正式名称とファンの仮称を区別する根拠になります。",
+      "全体地図、マーカーフィルター、ファストトラベル、拡大段階、座標はまだ未公開です。"
+    ]
+  },
+  {
+    "route": "/interface/quest-objective-tracker/",
+    "group": "Interface",
+    "source": "bestbuy",
+    "de": [
+      "Questziel-Verfolgung",
+      "Ein sichtbares Questziel kombiniert Aufgabentext, benannte Figuren, Ortsangaben und einen numerischen Fortschrittszähler.",
+      "Lily und Rick stehen im Zieltext.",
+      "Bloomfield Village und Bloomfield Park werden im selben Bildschirm gezeigt.",
+      "Der Zähler belegt eine messbare Sammelaufgabe.",
+      "Mehrfaches Anheften, automatische Route, Fristen, Sortierung und Barrierefreiheitsoptionen sind noch nicht bestätigt."
+    ],
+    "ja": [
+      "クエスト目標トラッカー",
+      "表示中の目標は、課題文、人物名、場所名、数値の進行カウンターを一つの画面にまとめています。",
+      "目標文にLilyとRickが登場します。",
+      "同じ画面にBloomfield VillageとBloomfield Parkがあります。",
+      "数値表示から収集進行を追跡できると分かります。",
+      "複数固定、自動経路、期限、並べ替え、アクセシビリティ機能は未確認です。"
+    ]
+  },
+  {
+    "route": "/interface/song-selection/",
+    "group": "Interface",
+    "source": "bestbuy",
+    "de": [
+      "Songauswahl im Interface",
+      "Der Befehl „Select Song“ bestätigt eine Musik-Auswahlfunktion, ohne bereits Umfang oder Nutzungskontext zu erklären.",
+      "Der Befehl ist in der veröffentlichten Bedienoberfläche sichtbar.",
+      "Er ist von Fotomodus und Outfit-Wechsel getrennt.",
+      "Eine Titelliste oder Freischaltanzeige ist nicht zu sehen.",
+      "Ob die Auswahl überall, nur an Lagern, über ein Gerät oder erst nach Fortschritt möglich ist, bleibt offen."
+    ],
+    "ja": [
+      "曲選択インターフェース",
+      "「Select Song」コマンドから音楽選択機能を確認できますが、曲数や利用場面までは説明されていません。",
+      "公開された操作画面にコマンド名があります。",
+      "Photo Modeや衣装変更とは別項目です。",
+      "曲一覧や解放状況は表示されていません。",
+      "どこでも使えるか、キャンプ限定か、装置や進行条件が必要かは未確定です。"
+    ]
+  },
+  {
+    "route": "/platform-choice/",
+    "group": "Platforms",
+    "source": "trailer",
+    "de": [
+      "Plattformwahl-Zentrum",
+      "Alle fünf angekündigten Plattformfamilien teilen den 24. September 2026; die beste Wahl hängt deshalb derzeit stärker von physischem Angebot und persönlichem Ökosystem als von unbestätigten Leistungswerten ab.",
+      "Bestätigt sind Switch 2, Switch, PS5, Xbox Series X|S und Steam.",
+      "Natsume listet physische Store-Varianten für Switch, Switch 2 und PS5.",
+      "Auflösung, Bildrate, Ladezeiten, Cross-Save und Achievements sind noch nicht vollständig verglichen.",
+      "Nutze die Vergleichsseiten nur mit bestätigten Daten und prüfe digitale Store-Einträge erneut, sobald sie live sind."
+    ],
+    "ja": [
+      "機種選択ガイドセンター",
+      "発表済み5機種系統はすべて2026年9月24日発売です。現段階の選択は、未確定の性能差よりパッケージ販売と自分の環境を基準にします。",
+      "Switch 2、Switch、PS5、Xbox Series X|S、Steamが確認済みです。",
+      "Natsume Storeのパッケージ選択はSwitch、Switch 2、PS5です。",
+      "解像度、フレームレート、ロード、クロスセーブ、実績差はまだ比較できません。",
+      "確認済み情報だけで比較し、各デジタルストアページ公開後に条件を再確認してください。"
+    ]
+  },
+  {
+    "route": "/platform-choice/platform-facts-vs-assumptions/",
+    "group": "Platforms",
+    "source": "trailer",
+    "de": [
+      "Plattformfakten und Annahmen trennen",
+      "Als Fakten gelten angekündigte Plattformen und gemeinsames Datum; technische Vorteile, Exklusivfunktionen und Speicherübertragung bleiben bis zu offiziellen Store- oder Testdaten Annahmen.",
+      "Die offizielle Liste enthält fünf Plattformfamilien.",
+      "Ein gleichzeitiger Veröffentlichungstag ist bestätigt.",
+      "Physische Händlerlisten decken nicht automatisch alle digitalen Plattformen ab.",
+      "Behandle Auflösung, Bildrate, Handheld-Leistung, Cross-Save, Cloud-Speicher und Upgradepfade als offen, solange Primärquellen fehlen."
+    ],
+    "ja": [
+      "機種の事実と推測を分ける",
+      "確認済みなのは対応機種と共通発売日です。性能優位、専用機能、セーブ移行は公式ストア情報や実機検証まで推測として扱います。",
+      "公式リストには5つの機種系統があります。",
+      "同じ発売日の予定が確認されています。",
+      "パッケージ販売店一覧は全デジタル機種を示すものではありません。",
+      "解像度、FPS、携帯性能、クロスセーブ、クラウド保存、アップグレードは一次情報が出るまで未確定です。"
+    ]
+  },
+  {
+    "route": "/platform-choice/ps5-vs-xbox-series-xs/",
+    "group": "Platforms",
+    "source": "trailer",
+    "de": [
+      "PS5 oder Xbox Series X|S",
+      "Beide Konsolen sind für denselben Tag angekündigt; ein sachlicher Vorabvergleich kann derzeit nur physische Verfügbarkeit und dein vorhandenes Ökosystem nutzen.",
+      "PS5 und Xbox Series X|S stehen in der offiziellen Plattformliste.",
+      "Der Natsume Store zeigt derzeit eine physische PS5-Variante.",
+      "Eine physische Xbox-Variante wird dort nicht angezeigt, obwohl die Plattform bestätigt ist.",
+      "Leistung, Dateigröße, Trophäen/Achievements, Vorladen und digitale Preise sind noch nicht vollständig veröffentlicht."
+    ],
+    "ja": [
+      "PS5とXbox Series X|Sの選び方",
+      "両機種は同日発売予定です。発売前に確実に比較できるのは、パッケージ販売状況と自分の利用環境です。",
+      "PS5とXbox Series X|Sは公式対応機種に含まれます。",
+      "Natsume Storeには現在PS5パッケージ版があります。",
+      "Xbox版は機種として確認済みですが、同ストアのパッケージ選択にはありません。",
+      "性能、容量、トロフィー・実績、事前DL、デジタル価格はまだ完全には公開されていません。"
+    ]
+  },
+  {
+    "route": "/platform-choice/same-day-platform-launch/",
+    "group": "Platforms",
+    "source": "preorder",
+    "de": [
+      "Gleichzeitiger Plattformstart",
+      "Natsume nennt für Switch 2, Switch, PS5, Xbox Series X|S und Steam gemeinsam den 24. September 2026.",
+      "Die Mai-Ankündigung verbindet alle Plattformen mit demselben Datum.",
+      "Die Juni-Ankündigung bestätigt den Termin erneut.",
+      "Ein späterer PC- oder Konsolenstart wurde nicht angekündigt.",
+      "Der gleiche Kalendertag bestätigt keine einheitliche Uhrzeit je Region und keine garantierte Zustellung physischer Exemplare."
+    ],
+    "ja": [
+      "全機種同日発売",
+      "NatsumeはSwitch 2、Switch、PS5、Xbox Series X|S、Steamの発売日をすべて2026年9月24日としています。",
+      "5月の発表で全機種と同じ日付が示されました。",
+      "6月の発表でも再確認されています。",
+      "PC版またはコンソール版だけの後発は発表されていません。",
+      "同じ日付でも地域別解禁時刻やパッケージ版の当日到着を保証しません。"
+    ]
+  },
+  {
+    "route": "/platform-choice/single-player-platform-choice/",
+    "group": "Platforms",
+    "source": "store",
+    "de": [
+      "Plattformwahl für Einzelspieler",
+      "Die offizielle Produktseite führt das Spiel als „1 Player“; für die Wahl sind daher lokale Spielweise, physisches Angebot und persönliche Plattformbibliothek wichtiger als Koop-Funktionen.",
+      "Ein Spieler ist auf der Natsume-Store-Seite angegeben.",
+      "Multiplayer oder Koop wird in den offiziellen Featurelisten nicht beworben.",
+      "Alle angekündigten Plattformen teilen das gleiche Veröffentlichungsdatum.",
+      "Cloud-Speicher, plattformübergreifender Fortschritt, Offline-Anforderungen und Kontoabhängigkeit sind noch nicht vollständig dokumentiert."
+    ],
+    "ja": [
+      "1人プレイ向け機種選択",
+      "公式商品ページは「1 Player」と記載しています。機種選びでは協力機能より、遊ぶ場所、パッケージ販売、自分のゲーム環境を重視します。",
+      "Natsume Storeに1人用と表示されています。",
+      "公式機能一覧でマルチプレイや協力プレイは案内されていません。",
+      "発表済み機種はすべて同じ発売日です。",
+      "クラウドセーブ、機種間進行、オフライン要件、アカウント依存はまだ詳細不明です。"
+    ]
+  },
+  {
+    "route": "/platform-choice/switch-2-vs-ps5/",
+    "group": "Platforms",
+    "source": "store",
+    "de": [
+      "Switch 2 oder PS5",
+      "Beide Varianten sind physisch im Natsume Store gelistet und erscheinen laut Ankündigung am selben Tag; entscheide vorerst nach Nutzungssituation statt unbestätigter Leistungswerte.",
+      "Switch 2 und PS5 sind offiziell angekündigt.",
+      "Beide können auf derselben Store-Seite als physische Variante gewählt werden.",
+      "Der Basispreis wird derzeit gleich angezeigt.",
+      "Auflösung, Bildrate, Ladezeit, Handheld-Vorteile und exklusive Funktionen sind noch nicht durch vergleichbare offizielle Daten belegt."
+    ],
+    "ja": [
+      "Switch 2とPS5の比較",
+      "両方ともNatsume Storeでパッケージ版が掲載され、同日発売予定です。現時点では未確定の性能より遊び方で選びます。",
+      "Switch 2とPS5は公式対応機種です。",
+      "同じ商品ページで両方のパッケージ版を選べます。",
+      "現在の基本価格表示は同額です。",
+      "解像度、FPS、ロード時間、携帯性以外の差、専用機能は比較可能な公式データがまだありません。"
+    ]
+  },
+  {
+    "route": "/pre-release/",
+    "group": "Verification",
+    "source": "announce",
+    "de": [
+      "Faktencheck vor dem Release",
+      "Dieses Zentrum ordnet Aussagen nach offizieller Ankündigung, Live-Produktseite, sichtbarem Screenshot und weiterhin offener Frage.",
+      "Die Titelankündigung belegt Welt, Plattformen und Kernmechaniken.",
+      "Die Vorbestellungsankündigung belegt Datum, erste Händler und Lupo-Bonus.",
+      "Die Trailer-Ankündigung ergänzt bestätigte Features und weitere Händler.",
+      "Datenbanken zu Geschenken, Rezepten, Fischen, Feldfrüchten und Questschritten bleiben geschlossen, bis konkrete Daten vorliegen."
+    ],
+    "ja": [
+      "発売前ファクトチェック",
+      "このページは情報を、公式発表、現行商品ページ、画面で見える事実、未解明項目に分けて整理します。",
+      "タイトル発表は世界、機種、主要システムの根拠です。",
+      "予約発表は発売日、最初の販売店、Lupo特典の根拠です。",
+      "トレーラー発表は追加機能と販売店を確認します。",
+      "好物、レシピ、魚、作物、クエスト手順は具体的データが出るまでデータベース化しません。"
+    ]
+  },
+  {
+    "route": "/pre-release/how-to-verify-echoes-of-teradea-news/",
+    "group": "Verification",
+    "source": "trailer",
+    "de": [
+      "Echoes-of-Teradea-News prüfen",
+      "Prüfe zuerst Natsumes datierte Newsseite und PDF, dann die aktuelle offizielle Produktseite; nutze Händlerbilder nur für sichtbar belegte Namen oder Interfaceelemente.",
+      "Datierte PDF-Ankündigungen sind der stärkste Nachweis für Plattform und Termin.",
+      "Live-Produktseiten können Preis, Varianten und Richtlinien ändern.",
+      "Screenshots belegen sichtbaren Text, aber nicht automatisch Rollen oder vollständige Mechaniken.",
+      "Social Posts, Suchsnippets und alte Händlertexte sollten ohne primäre Bestätigung keine definitive Datenseite erzeugen."
+    ],
+    "ja": [
+      "Echoes of Teradeaニュースの確認方法",
+      "最初にNatsumeの日付付きニュースとPDF、次に現行の公式商品ページを確認し、小売画像は画面で見える名前やUIだけの根拠にします。",
+      "日付付き公式PDFは機種と発売日の強い一次情報です。",
+      "現行商品ページの価格、機種版、規約は更新される場合があります。",
+      "スクリーンショットは見える文字の根拠ですが、役割や完全な仕組みを自動的に証明しません。",
+      "SNS投稿、検索抜粋、古い販売文だけで確定データページを作りません。"
+    ]
+  },
+  {
+    "route": "/pre-release/launch-day-information-still-missing/",
+    "group": "Verification",
+    "source": "trailer",
+    "de": [
+      "Welche Launch-Informationen noch fehlen",
+      "Trotz bestätigtem Datum fehlen noch regionale Freischaltzeiten, Vorladen, Dateigröße, Leistungsprofile, vollständige Sprachen und ein verlässlicher Day-one-Datenbestand.",
+      "Der gemeinsame Kalendertag ist bestätigt.",
+      "Technische Plattformvergleiche sind noch nicht offiziell vollständig.",
+      "Händler-Lieferung ist getrennt vom digitalen Start zu betrachten.",
+      "Unbekannte Daten werden nicht als eigene indexierbare Antwortseite veröffentlicht; diese Liste wird erst mit Primärquellen aktualisiert."
+    ],
+    "ja": [
+      "発売日まで未公開の情報",
+      "発売日は確定していますが、地域別解禁時刻、事前DL、容量、性能モード、完全な対応言語、発売日データはまだ不足しています。",
+      "共通の発売日は確認済みです。",
+      "機種別の技術比較は公式に揃っていません。",
+      "販売店の配送とデジタル解禁は別問題です。",
+      "不明情報だけのページはインデックス対象にせず、一次情報が出た時点で更新します。"
+    ]
+  },
+  {
+    "route": "/pre-release/official-source-map/",
+    "group": "Verification",
+    "source": "announce",
+    "de": [
+      "Offizielle Quellenkarte",
+      "Nutze die März-Ankündigung für Grundkonzept und Plattformen, die Mai-Ankündigung für Termin und Vorbestellung, die Juni-Ankündigung für Trailerdetails und die Live-Store-Seite für aktuelle Händlerbedingungen.",
+      "Jede Quelle besitzt ein anderes Veröffentlichungsdatum und einen klaren Zuständigkeitsbereich.",
+      "Spätere offizielle Aussagen überschreiben ältere, wenn sie denselben Punkt konkretisieren.",
+      "Händler-Screenshots dienen nur als Bildbeleg sichtbarer Informationen.",
+      "Diese Quellenkarte ersetzt keine regionale Store-Prüfung und keine spätere Verifikation mit der veröffentlichten Spielversion."
+    ],
+    "ja": [
+      "公式情報ソースマップ",
+      "3月発表は基本設定と機種、5月発表は発売日と予約、6月発表はトレーラー詳細、現行ストアは最新の販売条件に使います。",
+      "各情報源には日付と担当する事実範囲があります。",
+      "同じ項目を後の公式発表が具体化した場合は新しい情報を優先します。",
+      "小売スクリーンショットは画面で見える情報だけの証拠です。",
+      "この一覧は地域別ストア確認や発売後の実機検証を置き換えるものではありません。"
+    ]
+  },
+  {
+    "route": "/preorder-decisions/",
+    "group": "Buying",
+    "source": "store",
+    "de": [
+      "Vorbestellungs-Entscheidungszentrum",
+      "Entscheide in der Reihenfolge Plattform, physisch oder digital, Händler, Bonus, Endpreis und Lieferungsrisiko; keine einzelne Produktseite beantwortet alle sechs Punkte.",
+      "Physische Store-Varianten sind derzeit für Switch, Switch 2 und PS5 sichtbar.",
+      "Der Lupo-Bonus ist auf Vorrat begrenzt.",
+      "Der Natsume Store garantiert keine Zustellung am Erscheinungstag.",
+      "Vergleiche Händlerbedingungen kurz vor Zahlung erneut und trenne Vorbestellungsbonus von Plattform- oder Editionsumfang."
+    ],
+    "ja": [
+      "予約判断ガイドセンター",
+      "機種、パッケージかデジタル、販売店、特典、総額、配送リスクの順に判断します。一つの商品ページだけでは全項目を確認できません。",
+      "現在見えるパッケージ版はSwitch、Switch 2、PS5です。",
+      "Lupo特典は在庫限りです。",
+      "Natsume Storeは発売日到着を保証していません。",
+      "支払い直前に販売条件を再確認し、予約特典と機種・エディション内容を分けて考えてください。"
+    ]
+  }
+]
