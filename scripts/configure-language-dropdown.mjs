@@ -49,7 +49,19 @@ const v10Translated = [
   'story/guardian-wolf',
   'story/village-disasters'
 ];
-const translated = new Set([...core, ...expansion, ...v7Translated, ...v8Translated, ...v10Translated]);
+const v11Translated = [
+  'platform-choice/switch-vs-switch-2',
+  'platform-choice/steam-vs-console',
+  'platform-choice/physical-vs-digital',
+  'system-workflows/animal-obstacle-workflow',
+  'system-workflows/nautical-chart-island-loop',
+  'system-workflows/power-wisp-progression-loop',
+  'system-workflows/happilia-restoration-loop',
+  'world-connections/four-village-disaster-map',
+  'world-connections/guardian-wolf-vs-lupo',
+  'preorder-decisions/lupo-bonus-verification'
+];
+const translated = new Set([...core, ...expansion, ...v7Translated, ...v8Translated, ...v10Translated, ...v11Translated]);
 
 async function walk(dir) {
   const output = [];
