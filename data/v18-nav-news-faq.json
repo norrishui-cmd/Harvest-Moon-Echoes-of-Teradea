@@ -1,0 +1,952 @@
+[
+  {
+    "hub": "release-date",
+    "slug": "is-september-24-listed-on-the-official-store",
+    "question": "Is September 24 Listed on the Official Natsume Store?",
+    "headline": "Official Store Still Lists September 24 for Echoes of Teradea",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush"
+    },
+    "answer": "Yes. The Natsume Store product page lists September 24, 2026 as the release date for Harvest Moon: Echoes of Teradea.",
+    "facts": [
+      "The live first-party product page displays “Release Date: September 24, 2026.”",
+      "The selectable physical versions are Nintendo Switch, Nintendo Switch 2, and PlayStation 5.",
+      "The date matches Natsume’s May preorder announcement and June trailer announcement."
+    ],
+    "boundary": "The store date confirms the planned launch day, but it does not state digital unlock hours, preload timing, review timing, or guaranteed delivery for shipped copies.",
+    "takeaway": "Use the first-party date for planning; treat retailer arrival estimates and regional digital unlock clocks as separate operational details."
+  },
+  {
+    "hub": "release-date",
+    "slug": "what-day-of-the-week-is-september-24-2026",
+    "question": "What Day of the Week Is the Echoes of Teradea Release Date?",
+    "headline": "September 24, 2026 Falls on a Thursday",
+    "source": {
+      "date": "2026-05-12",
+      "label": "Natsume preorder announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf"
+    },
+    "answer": "September 24, 2026 is a Thursday. That is the calendar day attached to Natsume’s confirmed launch date.",
+    "facts": [
+      "Natsume announced September 24, 2026 in the May 12 preorder release.",
+      "The June 18 first-trailer release repeated the same launch date.",
+      "Calendar conversion places September 24, 2026 on Thursday."
+    ],
+    "boundary": "The weekday calculation does not reveal the hour that Steam or console stores will unlock the game in each region.",
+    "takeaway": "Players can reserve the Thursday for launch while waiting for platform stores to publish exact regional availability."
+  },
+  {
+    "hub": "release-date",
+    "slug": "has-the-release-date-changed-since-preorders-opened",
+    "question": "Has the Release Date Changed Since Preorders Opened?",
+    "headline": "Release Date Remains Consistent Since Preorders Opened",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No official change has been published. September 24, 2026 remains consistent across the preorder announcement, first trailer announcement, news index, and current store listing.",
+    "facts": [
+      "Physical preorders opened on May 12 with a September 24 date.",
+      "The June 18 trailer announcement repeated September 24.",
+      "Natsume’s current product listing still shows the same date on July 29."
+    ],
+    "boundary": "This is a dated status check, not a guarantee against a future schedule change. A delay should only be reported after a publisher or platform notice.",
+    "takeaway": "The useful update is continuity: three first-party surfaces still agree, so players do not need to act on unsupported delay rumors."
+  },
+  {
+    "hub": "release-date",
+    "slug": "are-regional-digital-unlock-times-published",
+    "question": "Are Regional Digital Unlock Times Published?",
+    "headline": "Regional Digital Unlock Times Are Still Pending",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No. Natsume has confirmed the date but has not published a region-by-region Steam, PlayStation, Xbox, or Nintendo unlock timetable.",
+    "facts": [
+      "The announcements give September 24 without clock times.",
+      "The Natsume Store page concerns physical products and does not define digital unlock policy.",
+      "No preload or time-zone table appears on the official news index through July 29."
+    ],
+    "boundary": "A worldwide date can still produce different local clock times because each platform controls storefront timing. Do not convert an assumed midnight launch into a factual schedule.",
+    "takeaway": "Wait for verified platform listings before publishing countdowns that claim a specific local unlock hour."
+  },
+  {
+    "hub": "release-date",
+    "slug": "is-a-launch-delay-announcement-published",
+    "question": "Has Natsume Published a Launch Delay Announcement?",
+    "headline": "No Echoes of Teradea Delay Notice as of July 29",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No. Natsume’s official news index contains no Echoes of Teradea delay announcement as of July 29, 2026.",
+    "facts": [
+      "The latest game-specific press release is the June 18 first-trailer announcement.",
+      "That release repeats the September 24 launch date.",
+      "The current Natsume Store listing also retains September 24."
+    ],
+    "boundary": "Absence of a delay notice only describes the current public record. It does not predict manufacturing, shipping, review, or digital-store timing.",
+    "takeaway": "Rumors should be checked against the publisher news page and live first-party listing before changing a release-date guide."
+  },
+  {
+    "hub": "demo",
+    "slug": "is-the-first-trailer-a-playable-demo",
+    "question": "Is the First Trailer a Playable Demo?",
+    "headline": "The First Trailer Is a Video Reveal, Not a Playable Demo",
+    "source": {
+      "date": "2026-06-18",
+      "label": "Natsume first-trailer announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_383_HMEOT_TrailerAnnouncementF.pdf"
+    },
+    "answer": "No. The June 18 release is explicitly the first trailer; Natsume does not describe it as a downloadable or playable demo.",
+    "facts": [
+      "The press release uses “Debuts First Trailer” in its headline.",
+      "It showcases features and characters through video footage.",
+      "No download link, trial duration, demo platform list, or save-transfer rule is supplied."
+    ],
+    "boundary": "Gameplay footage can demonstrate a feature without making a playable build available to the public.",
+    "takeaway": "Players should use verified storefront demo buttons—not reposted trailer files or unofficial downloads—to identify a real trial."
+  },
+  {
+    "hub": "demo",
+    "slug": "has-a-demo-download-size-been-published",
+    "question": "Has an Echoes of Teradea Demo Download Size Been Published?",
+    "headline": "No Demo Download Size Has Been Published",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No. Because Natsume has not announced a public demo, it has not published a demo file size for any platform.",
+    "facts": [
+      "The official announcements contain no demo specification.",
+      "No PC or console demo download page is linked by Natsume.",
+      "The full game’s platform-specific file sizes are also not stated in the press releases."
+    ],
+    "boundary": "Any download-size claim should identify the exact verified storefront and build; a trailer file size is not a game-demo size.",
+    "takeaway": "This status prevents fabricated storage recommendations while leaving room to add exact numbers when platform listings expose them."
+  },
+  {
+    "hub": "demo",
+    "slug": "is-there-an-age-rating-for-a-demo",
+    "question": "Is There an Age Rating for an Echoes of Teradea Demo?",
+    "headline": "No Separate Demo Rating Is Listed",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush"
+    },
+    "answer": "No separate public-demo rating is listed. The official store currently marks the full game itself as ESRB Rating Pending.",
+    "facts": [
+      "The Natsume Store product metadata says “ESRB Rating: Rating Pending.”",
+      "No playable demo is identified in the official announcements.",
+      "A demo could receive its own notice or content warning only after one is announced."
+    ],
+    "boundary": "Do not reuse the full product’s pending classification as a final rating for a nonexistent public demo.",
+    "takeaway": "Parents should check the verified demo storefront and final ESRB record if a trial is released later."
+  },
+  {
+    "hub": "demo",
+    "slug": "would-a-demo-require-a-preorder",
+    "question": "Would an Echoes of Teradea Demo Require a Preorder?",
+    "headline": "No Demo Access Requirement Has Been Announced",
+    "source": {
+      "date": "2026-05-12",
+      "label": "Natsume preorder announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf"
+    },
+    "answer": "Natsume has not announced a demo, so there is no verified preorder requirement, code, early-access condition, or trial entitlement.",
+    "facts": [
+      "The preorder announcement describes physical orders and the Lupo plush.",
+      "It does not promise playable early access.",
+      "No demo code or trial access is listed as a preorder benefit."
+    ],
+    "boundary": "The physical bonus and any hypothetical demo access are separate offers. Do not infer one from the other.",
+    "takeaway": "Buyers should preorder only for the confirmed product and eligible bonus, not for an unannounced playable benefit."
+  },
+  {
+    "hub": "demo",
+    "slug": "does-the-official-product-page-link-to-a-demo",
+    "question": "Does the Official Product Page Link to a Demo?",
+    "headline": "Natsume Store Product Page Has No Demo Link",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush"
+    },
+    "answer": "No. The current Natsume Store product page presents physical preorder options and product information, not a public demo download.",
+    "facts": [
+      "The page offers Switch, Switch 2, and PS5 physical variants.",
+      "Its call to action is a preorder purchase.",
+      "The description contains no demo platform, time limit, download, or carry-over terms."
+    ],
+    "boundary": "A product purchase page is not evidence of a free trial, even when it includes screenshots or feature descriptions.",
+    "takeaway": "Use official platform-store listings to verify any future demo and the Natsume page to verify the physical offer."
+  },
+  {
+    "hub": "game-status",
+    "slug": "does-rating-pending-mean-the-game-is-rated-teen",
+    "question": "Does Rating Pending Mean Echoes of Teradea Is Rated Teen?",
+    "headline": "Rating Pending Does Not Mean Teen",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush"
+    },
+    "answer": "No. “Rating Pending” means the final ESRB category and content descriptors have not yet been displayed; it does not mean Teen, Everyone, or any other final rating.",
+    "facts": [
+      "The live Natsume Store listing shows ESRB Rating Pending.",
+      "No final ESRB category is printed in the product details.",
+      "Rating Pending is temporary metadata used before classification is finalized."
+    ],
+    "boundary": "Do not convert a placeholder into an age recommendation. The final ESRB record and updated packaging should be checked closer to launch.",
+    "takeaway": "The July status remains unresolved, so family-purchase guidance should cite the pending state accurately."
+  },
+  {
+    "hub": "game-status",
+    "slug": "does-one-player-confirm-no-online-features",
+    "question": "Does “1 Player” Confirm There Are No Online Features?",
+    "headline": "One Player Does Not Settle Every Online Feature",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush"
+    },
+    "answer": "No. The store confirms a one-player game, but that field alone does not prove whether optional online services, cloud functions, rankings, or sharing features exist.",
+    "facts": [
+      "Natsume Store lists “Players: 1 Player.”",
+      "No co-op or multiplayer mode is described in the official announcements.",
+      "The announcements also do not publish a complete online-feature specification."
+    ],
+    "boundary": "The safe conclusion is single-player classification—not a broader claim that the software never connects to a network.",
+    "takeaway": "Platform-store feature panels should be checked later for cloud saves, online requirements, and service-specific functions."
+  },
+  {
+    "hub": "game-status",
+    "slug": "has-the-full-game-file-size-been-published",
+    "question": "Has the Full Game File Size Been Published?",
+    "headline": "Echoes of Teradea File Size Is Still Unpublished",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No official platform-specific file size is published in Natsume’s three announcements or current physical product details.",
+    "facts": [
+      "Five platform families are confirmed.",
+      "The press releases do not list gigabytes or storage requirements.",
+      "Physical media availability does not reveal download or patch size."
+    ],
+    "boundary": "Switch, Switch 2, PS5, Xbox, and Steam may show different sizes, and launch updates can change them.",
+    "takeaway": "Storage guides should wait for first-party platform metadata instead of copying a guessed size across systems."
+  },
+  {
+    "hub": "game-status",
+    "slug": "have-pc-system-requirements-been-published",
+    "question": "Have PC System Requirements Been Published?",
+    "headline": "Steam PC Requirements Are Still Pending",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No official minimum or recommended PC specifications have been published in the Natsume announcements reviewed through July 29.",
+    "facts": [
+      "PC through Steam is a confirmed launch platform.",
+      "No CPU, GPU, RAM, operating-system, DirectX, or storage table appears in the press releases.",
+      "The current physical store page does not sell or specify a PC build."
+    ],
+    "boundary": "A confirmed Steam release is not evidence that a particular computer will run the game.",
+    "takeaway": "PC buyers should wait for the verified Steam system-requirements panel before making hardware decisions."
+  },
+  {
+    "hub": "game-status",
+    "slug": "has-a-review-embargo-date-been-announced",
+    "question": "Has a Review Embargo Date Been Announced?",
+    "headline": "No Review Embargo Timing Has Been Announced",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No. Natsume’s public announcements do not state when reviews, creator coverage, or scored impressions may go live.",
+    "facts": [
+      "The first trailer arrived June 18.",
+      "The release date is September 24.",
+      "No review-code schedule or embargo clock appears on the official news index."
+    ],
+    "boundary": "Review access is an editorial and publisher process separate from the retail release date.",
+    "takeaway": "Players comparing versions should wait for independently tested performance coverage rather than treating marketing footage as a benchmark."
+  },
+  {
+    "hub": "guides",
+    "slug": "can-campsites-support-long-exploration-trips",
+    "question": "Can Campsites Support Longer Exploration Trips?",
+    "headline": "Campsites Support Rest, Cooking, and Recovery",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume describes campsites as places to cook, sleep, and recover, making them an official support system for trips away from the farm.",
+    "facts": [
+      "Campsites are part of the open-world exploration feature set.",
+      "Cooking and sleeping are explicitly named campsite activities.",
+      "Exact campsite positions, recipe values, and time costs are not yet published."
+    ],
+    "boundary": "The system supports trip planning, but a precise day-by-day route cannot be written until the final map and reproducible gameplay data are available.",
+    "takeaway": "A useful prelaunch guide can explain the rest loop without inventing optimal camp locations or stamina numbers."
+  },
+  {
+    "hub": "guides",
+    "slug": "should-you-match-animal-abilities-to-obstacles",
+    "question": "Should You Match Animal Abilities to Exploration Obstacles?",
+    "headline": "Animal Abilities Are Designed for Different Obstacles",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Official descriptions say animals have special abilities that help the player leap across terrain, break obstacles, and uncover treasures.",
+    "facts": [
+      "Animal companions can assist movement and obstacle clearing.",
+      "Different actions are described rather than one universal ability.",
+      "No complete animal-to-obstacle compatibility table has been published."
+    ],
+    "boundary": "The planning principle is confirmed; exact best-animal routes remain unknown until each companion and obstacle can be tested.",
+    "takeaway": "Players can expect ability-based exploration while avoiding fabricated unlock orders or animal rankings."
+  },
+  {
+    "hub": "guides",
+    "slug": "can-wild-animal-attacks-cost-collected-items",
+    "question": "Can Wild Animal Attacks Cost You Collected Items?",
+    "headline": "Wild Encounters Can Cause Item Loss",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume warns that dangerous wild animals can send the player back and cause some collected items to be lost.",
+    "facts": [
+      "Wild animals appear in the untamed wilderness.",
+      "The consequence includes losing some collected items.",
+      "The percentage, protected items, and recovery rules are not stated."
+    ],
+    "boundary": "The confirmed risk supports cautious return trips, but it does not justify a precise loss formula or guaranteed safe inventory category.",
+    "takeaway": "Exploration guides should recommend risk management while labeling numerical penalties as launch-day research."
+  },
+  {
+    "hub": "guides",
+    "slug": "do-nautical-charts-support-island-expeditions",
+    "question": "Do Nautical Charts Support Island Expeditions?",
+    "headline": "Nautical Charts Lead Toward Remote Islands",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Official feature text connects nautical charts with reaching remote islands that contain rare collectibles and animals.",
+    "facts": [
+      "Remote islands are part of the exploration loop.",
+      "Nautical charts are the named discovery tool.",
+      "The number of charts, islands, and exact acquisition steps are not published."
+    ],
+    "boundary": "The relationship between charts and islands is confirmed, but a walkthrough needs real map locations and tested requirements.",
+    "takeaway": "Prelaunch guidance should focus on the expedition loop rather than inventing chart coordinates."
+  },
+  {
+    "hub": "guides",
+    "slug": "are-traveling-merchants-part-of-route-planning",
+    "question": "Are Traveling Merchants Part of Route Planning?",
+    "headline": "Traveling Merchants Move Around Teradea",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume says traveling merchants wander across the map and offer exclusive items, so their movement is relevant to route planning.",
+    "facts": [
+      "The merchants are not described as fixed to one permanent shop.",
+      "Exclusive items are part of their role.",
+      "Schedules, inventories, prices, and refresh rules remain unpublished."
+    ],
+    "boundary": "The confirmed concept supports a merchant-tracking guide later, but not a timetable before launch.",
+    "takeaway": "Players should distinguish the roaming merchant system from named fixed locations such as Maple Mart."
+  },
+  {
+    "hub": "story",
+    "slug": "does-the-player-leave-bloomfield-to-investigate-disasters",
+    "question": "Does the Player Leave Bloomfield to Investigate Disasters?",
+    "headline": "The Story Sends the Player Across Teradea",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. The official premise begins in Bloomfield and sends the player across Teradea as mist, wild beasts, and disasters threaten the land.",
+    "facts": [
+      "The protagonist was raised in Bloomfield Village.",
+      "The Forest of Echoes mist and nighttime wolves disrupt the region.",
+      "Other villages face earthquakes, violent storms, and additional disasters."
+    ],
+    "boundary": "The broad journey is confirmed, but official sources do not publish the full chapter order, quest list, or ending.",
+    "takeaway": "Story guides can map the premise without turning promotional summaries into a fabricated walkthrough."
+  },
+  {
+    "hub": "story",
+    "slug": "is-lupo-confirmed-to-be-the-guardian-wolf",
+    "question": "Is Lupo Confirmed to Be the Large Guardian Wolf?",
+    "headline": "Lupo and the Rumored Guardian Wolf Are Not Explicitly Identical",
+    "source": {
+      "date": "2026-05-12",
+      "label": "Natsume preorder announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf"
+    },
+    "answer": "No official text explicitly confirms that Lupo is the same large guardian wolf rumored to rule the nighttime wolves.",
+    "facts": [
+      "The story premise mentions rumors of a large guardian wolf.",
+      "The preorder announcement identifies Lupo as the Bloomfield Guardian and shows a baby-wolf plush.",
+      "The publisher has not stated that these two references are the same individual."
+    ],
+    "boundary": "A thematic connection is plausible, but the identity should remain unconfirmed until dialogue or a later announcement establishes it.",
+    "takeaway": "Keeping the names separate prevents a speculative lore theory from being presented as canon."
+  },
+  {
+    "hub": "story",
+    "slug": "does-the-harvest-goddess-guide-the-player",
+    "question": "Does the Harvest Goddess Guide the Player?",
+    "headline": "The Harvest Goddess Is a Confirmed Ally",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume names the Harvest Goddess among the allies the player meets while investigating Teradea’s mysteries.",
+    "facts": [
+      "The Harvest Goddess appears in the official character list.",
+      "She is placed alongside Doc Jr. and Guardian Spirits in the journey description.",
+      "Her complete quest role, schedule, and rewards are not published."
+    ],
+    "boundary": "The ally role is confirmed, but specific cutscenes or progression gates cannot be inferred from earlier games.",
+    "takeaway": "Character coverage should cite her announced role and leave event sequencing for verified gameplay."
+  },
+  {
+    "hub": "story",
+    "slug": "is-doc-jr-an-ally-in-teradea",
+    "question": "Is Doc Jr. an Ally in Echoes of Teradea?",
+    "headline": "Doc Jr. Returns as an Inventive Ally",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume describes Doc Jr. as an ingenious inventor and one of the memorable allies encountered in Teradea.",
+    "facts": [
+      "Doc Jr. is named in first-party product copy.",
+      "His inventor identity is explicit.",
+      "No complete invention list, upgrade tree, or quest schedule has been released."
+    ],
+    "boundary": "His presence is factual, while assumptions about machines from previous games are not evidence for this title.",
+    "takeaway": "A launch guide should document each invention only after it is shown or tested in Echoes of Teradea."
+  },
+  {
+    "hub": "story",
+    "slug": "are-village-disasters-part-of-one-mystery",
+    "question": "Are the Village Disasters Part of the Main Mystery?",
+    "headline": "Disasters and the Looming Darkness Frame the Central Threat",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Official story copy connects earthquakes, violent storms, strange disasters, and a looming darkness to the mysteries the player confronts across Teradea.",
+    "facts": [
+      "Different villages face distinct environmental threats.",
+      "Guardian Spirits are part of the wider journey.",
+      "The publisher does not reveal the final cause or resolution."
+    ],
+    "boundary": "The threats belong to the central setup, but their exact causal relationship and final antagonist remain spoiler-sensitive and unconfirmed.",
+    "takeaway": "Lore pages should preserve the mystery rather than invent a villain or ending from trailer imagery."
+  },
+  {
+    "hub": "features",
+    "slug": "does-the-open-world-include-caves-islands-and-towns",
+    "question": "Does the Open World Include Caves, Islands, and Towns?",
+    "headline": "Teradea Includes Caves, Remote Islands, and Lively Towns",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume explicitly describes a large landscape containing hidden caves, remote islands, lively towns, villages, and wilderness regions.",
+    "facts": [
+      "Caves contain ore and gems.",
+      "Nautical charts lead toward remote islands.",
+      "Villages and a bustling city appear in official descriptions and screenshots."
+    ],
+    "boundary": "The variety of environment types is confirmed, but the full map size, loading structure, and region count are not.",
+    "takeaway": "The feature briefing supports a world overview without claiming seamless travel or exact square mileage."
+  },
+  {
+    "hub": "features",
+    "slug": "can-animals-help-with-movement-and-breaking-obstacles",
+    "question": "Can Animals Help with Both Movement and Breaking Obstacles?",
+    "headline": "Animal Companions Have Multiple Exploration Roles",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Official text says animal abilities can help the player leap across terrain, break through obstacles, and discover treasures.",
+    "facts": [
+      "Movement assistance is explicitly named.",
+      "Obstacle breaking is explicitly named.",
+      "Treasure discovery is also part of the animal-companion feature."
+    ],
+    "boundary": "The roles are confirmed collectively; the publisher has not mapped every action to a named species.",
+    "takeaway": "Avoid assigning abilities to specific animals until screenshots, menus, or reproducible gameplay prove the pairing."
+  },
+  {
+    "hub": "features",
+    "slug": "do-power-statue-puzzles-reward-power-wisp-fruit",
+    "question": "Do Power Statue Puzzles Reward Power Wisp Fruit?",
+    "headline": "Power Statue Puzzles Lead to Power Wisp Fruit",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume connects solved Power Statue puzzles with Power Wisp Fruit, which is used to increase maximum stamina.",
+    "facts": [
+      "Power Statues are found across Teradea.",
+      "Their puzzles award Power Wisp Fruit.",
+      "The fruit is connected to maximum-stamina growth."
+    ],
+    "boundary": "The upgrade mechanism is confirmed, but statue count, fruit requirements, and stamina increments are not.",
+    "takeaway": "A stamina guide should state the loop now and reserve optimization tables for verified values."
+  },
+  {
+    "hub": "features",
+    "slug": "does-farming-share-the-game-with-open-world-adventure",
+    "question": "Does Farming Share the Game with Open-World Adventure?",
+    "headline": "Farming and Open-World Adventure Form One Core Loop",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume presents peaceful farm life and open-world adventure as connected parts of Echoes of Teradea rather than separate game modes.",
+    "facts": [
+      "Players can build a farm, raise animals, and harvest crops.",
+      "The same journey includes caves, islands, villages, obstacles, and dangerous wildlife.",
+      "Animal companions and campsites support travel beyond the farm."
+    ],
+    "boundary": "The combined structure is confirmed, but the daily balance between farm chores and exploration remains a player-choice and progression question.",
+    "takeaway": "This distinguishes the announced hybrid loop from assumptions that the game is only a farm simulator or only an adventure game."
+  },
+  {
+    "hub": "features",
+    "slug": "does-happilia-contribute-to-teradea-development",
+    "question": "Does Happilia Contribute to Teradea’s Development?",
+    "headline": "Happilia Links Villager Help with Regional Development",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume says helping villagers and contributing to Teradea’s development earns Happilia.",
+    "facts": [
+      "Happilia is gained through helping villagers.",
+      "Development of Teradea is part of the same system.",
+      "No exchange rate, level table, or complete reward list is published."
+    ],
+    "boundary": "The progression connection is factual, while exact thresholds and unlocks remain launch-day data.",
+    "takeaway": "Feature guides should describe Happilia as a development-linked resource without inventing an economy."
+  },
+  {
+    "hub": "locations",
+    "slug": "is-bloomfield-the-players-home-village",
+    "question": "Is Bloomfield the Player’s Home Village?",
+    "headline": "Bloomfield Is the Protagonist’s Starting Home",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. The official premise says the player was raised in the quiet comfort of Bloomfield Village.",
+    "facts": [
+      "Bloomfield anchors the opening story.",
+      "The Forest of Echoes mist reaches the surrounding land.",
+      "Lupo is called the Bloomfield Guardian in preorder material."
+    ],
+    "boundary": "The starting role is confirmed, but a full shop list, resident schedule, and map layout are not.",
+    "takeaway": "Location coverage can identify Bloomfield as home without inventing every service available there."
+  },
+  {
+    "hub": "locations",
+    "slug": "does-the-forest-of-echoes-produce-the-mist",
+    "question": "Does the Mist Come from the Forest of Echoes?",
+    "headline": "The Mist Spreads from the Forest of Echoes",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume’s story setup says the mist of the Forest of Echoes now covers the land of Teradea.",
+    "facts": [
+      "The forest is the named origin of the spreading mist.",
+      "Wild wolves appear outside Bloomfield at night.",
+      "The ultimate cause of the mist is not revealed."
+    ],
+    "boundary": "The direction of spread is confirmed; the lore explanation and resolution remain part of the unreleased story.",
+    "takeaway": "A location page should separate geographic facts from theories about the darkness or Guardian Spirits."
+  },
+  {
+    "hub": "locations",
+    "slug": "is-quarrytop-associated-with-mining",
+    "question": "Is Quarrytop Associated with Mining?",
+    "headline": "Quarrytop Is the Mining Village",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume identifies Quarrytop as one of the named villages and associates it with mining in the official world description.",
+    "facts": [
+      "Quarrytop is one of the three initially named villages outside Bloomfield.",
+      "Teradea contains maze-like caves with ore and gems.",
+      "Exact mine floors, ore tables, and shop inventories are not public."
+    ],
+    "boundary": "The village theme is confirmed, but detailed resource routes require actual game data.",
+    "takeaway": "This supports a location-intent page without publishing placeholder ore values."
+  },
+  {
+    "hub": "locations",
+    "slug": "is-tidewind-a-port-village",
+    "question": "Is Tidewind a Port Village?",
+    "headline": "Tidewind Is the Harbor Community",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Tidewind is the named seaside or harbor village within Teradea’s network of communities.",
+    "facts": [
+      "Tidewind appears in Natsume’s initial village list.",
+      "Nautical charts and remote-island travel are official world systems.",
+      "The exact boat service, docks, and resident roster are not published."
+    ],
+    "boundary": "The coastal identity is useful context, but it does not prove where every island expedition starts.",
+    "takeaway": "Future route guides should connect Tidewind to sailing only after the final game confirms the travel interface."
+  },
+  {
+    "hub": "locations",
+    "slug": "is-maplehill-a-cultural-center",
+    "question": "Is Maplehill a Cultural Center?",
+    "headline": "Maplehill Is Framed Around Culture and Restoration",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "Yes. Maplehill is presented as a distinct community whose identity contributes to Teradea’s varied villages and restoration story.",
+    "facts": [
+      "Maplehill is one of the named villages in the announcement.",
+      "Helping villagers and developing Teradea earns Happilia.",
+      "Exact facilities, festivals, and restoration tiers are not listed."
+    ],
+    "boundary": "The community role can be described now, but a facility-by-facility guide would be speculative.",
+    "takeaway": "The page should be updated with tested services and NPC schedules after release."
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-cross-save-confirmed-between-platforms",
+    "question": "Is Cross-Save Confirmed Between Platforms?",
+    "headline": "Cross-Save Has Not Been Announced",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No. Natsume has announced five platform families but has not announced cross-save or save transfer between them.",
+    "facts": [
+      "Switch 2, Switch, PS5, Xbox Series X|S, and Steam are confirmed.",
+      "The press releases do not describe account linking.",
+      "No platform-to-platform save migration rule is stated."
+    ],
+    "boundary": "A simultaneous release does not imply shared progression or transferable saves.",
+    "takeaway": "Choose a platform on the assumption that saves remain local until first-party store features say otherwise."
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-there-a-switch-to-switch-2-upgrade-path",
+    "question": "Is There a Switch-to-Switch 2 Upgrade Path?",
+    "headline": "No Switch Upgrade Path Has Been Announced",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No. Nintendo Switch and Nintendo Switch 2 are listed as separate versions, and Natsume has not published an upgrade-pack, entitlement, or save-transfer policy.",
+    "facts": [
+      "Both Nintendo platforms are named separately.",
+      "Both have physical preorder variants on Natsume Store.",
+      "No cross-buy or paid-upgrade language appears in the announcements."
+    ],
+    "boundary": "Separate listings do not prove whether a future upgrade option will or will not appear.",
+    "takeaway": "Buyers should select the version for the hardware they plan to use rather than assuming an automatic upgrade."
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-a-ps5-disc-preorder-confirmed",
+    "question": "Is a PS5 Disc Preorder Confirmed?",
+    "headline": "PS5 Is Included in Confirmed Physical Preorders",
+    "source": {
+      "date": "2026-05-12",
+      "label": "Natsume preorder announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume’s preorder announcement and store page include a PlayStation 5 physical version.",
+    "facts": [
+      "PS5 appears among the three selectable physical variants.",
+      "Amazon was also named for PS5 preorders.",
+      "The Lupo plush offer is subject to retailer eligibility and stock."
+    ],
+    "boundary": "A confirmed physical version does not reveal disc capacity, install size, day-one patch size, or digital price.",
+    "takeaway": "PS5 buyers can verify the edition now while waiting for technical specifications."
+  },
+  {
+    "hub": "platforms",
+    "slug": "has-steam-deck-compatibility-been-announced",
+    "question": "Has Steam Deck Compatibility Been Announced?",
+    "headline": "Steam Deck Status Is Still Unpublished",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No official Steam Deck verification or compatibility rating has been announced for Echoes of Teradea.",
+    "facts": [
+      "PC through Steam is confirmed.",
+      "No PC requirements are published in Natsume’s releases.",
+      "Steam availability alone does not establish Deck performance or control support."
+    ],
+    "boundary": "Do not label the game Verified, Playable, or Unsupported without a live Valve compatibility record.",
+    "takeaway": "Portable-PC recommendations should wait for platform metadata and independent testing."
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-xbox-game-pass-availability-confirmed",
+    "question": "Is Xbox Game Pass Availability Confirmed?",
+    "headline": "Game Pass Availability Has Not Been Announced",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No. Xbox Series X|S is a launch platform, but Natsume has not announced Xbox Game Pass inclusion.",
+    "facts": [
+      "Xbox Series X|S appears in the official platform list.",
+      "The physical preorder announcement focuses on Switch 2, Switch, and PS5.",
+      "No subscription-service language appears in the press releases."
+    ],
+    "boundary": "A game launching on Xbox is not automatically part of Game Pass.",
+    "takeaway": "Subscription pages should remain unlisted or explicitly negative-status until Microsoft or Natsume publishes an entitlement."
+  },
+  {
+    "hub": "preorder",
+    "slug": "will-mixed-natsume-store-orders-ship-together",
+    "question": "Will Mixed Natsume Store Orders Ship Together?",
+    "headline": "Mixed Orders Are Held Until All Items Are Available",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush"
+    },
+    "answer": "Yes. The current product page warns that orders combining preorder and in-stock items are held until every item is available.",
+    "facts": [
+      "The notice appears directly above the product description.",
+      "Natsume suggests placing separate orders for faster shipment of in-stock goods.",
+      "This policy concerns order fulfillment, not the game’s release date."
+    ],
+    "boundary": "A held mixed order can delay other merchandise even if the game itself remains scheduled for September 24.",
+    "takeaway": "Buyers who need an in-stock item earlier should follow the store’s separate-order guidance."
+  },
+  {
+    "hub": "preorder",
+    "slug": "is-amazon-an-officially-named-preorder-retailer",
+    "question": "Is Amazon an Officially Named Preorder Retailer?",
+    "headline": "Amazon Was Named in the Preorder Announcement",
+    "source": {
+      "date": "2026-05-12",
+      "label": "Natsume preorder announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume’s May 12 announcement named Amazon for Nintendo Switch 2, Nintendo Switch, and PlayStation 5 preorders.",
+    "facts": [
+      "Amazon is named in the first-party press release.",
+      "The listed physical platforms are Switch 2, Switch, and PS5.",
+      "Retail stock and bonus eligibility can change independently."
+    ],
+    "boundary": "Being named as a retailer does not guarantee that every regional Amazon listing or seller includes the same bonus.",
+    "takeaway": "Open the exact product listing and verify seller, platform, region, delivery estimate, and bonus wording before checkout."
+  },
+  {
+    "hub": "preorder",
+    "slug": "does-while-supplies-last-apply-to-lupo",
+    "question": "Does “While Supplies Last” Apply to the Lupo Plush?",
+    "headline": "The Lupo Bonus Is Explicitly Stock-Limited",
+    "source": {
+      "date": "2026-05-12",
+      "label": "Natsume preorder announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf"
+    },
+    "answer": "Yes. Natsume states that the baby Lupo wolf plush is offered with eligible preorders while supplies last.",
+    "facts": [
+      "Lupo is described as the Bloomfield Guardian.",
+      "The plush is the named physical preorder bonus.",
+      "“While supplies last” means the offer can end before the release date."
+    ],
+    "boundary": "The wording does not disclose inventory count, allocation by retailer, or a universal cutoff date.",
+    "takeaway": "Buyers should rely on the exact retailer listing and order confirmation rather than assuming all September orders qualify."
+  },
+  {
+    "hub": "preorder",
+    "slug": "are-switch-switch-2-and-ps5-the-store-options",
+    "question": "Are Switch, Switch 2, and PS5 the Natsume Store Options?",
+    "headline": "Natsume Store Lists Three Physical Platform Variants",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume Store product listing",
+      "url": "https://natsumestore.com/products/harvest-moon-echoes-of-teradea-with-free-wolf-plush"
+    },
+    "answer": "Yes. The live Natsume Store selector lists Nintendo Switch, Nintendo Switch 2, and PlayStation 5.",
+    "facts": [
+      "The page does not offer an Xbox or PC physical selector.",
+      "All three displayed variants share the September 24 product page.",
+      "The page advertises the free wolf plush offer."
+    ],
+    "boundary": "The store selector describes that retailer’s current physical inventory, not the full digital launch-platform list.",
+    "takeaway": "Use the platform announcement for all launch systems and the store page for physical options sold there."
+  },
+  {
+    "hub": "preorder",
+    "slug": "does-a-preorder-include-early-access",
+    "question": "Does an Echoes of Teradea Preorder Include Early Access?",
+    "headline": "No Early Access Benefit Has Been Announced",
+    "source": {
+      "date": "2026-05-12",
+      "label": "Natsume preorder announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf"
+    },
+    "answer": "No. Natsume’s announced preorder benefit is the eligible Lupo plush; the press release does not promise early gameplay access.",
+    "facts": [
+      "The launch date remains September 24.",
+      "The named bonus is physical merchandise.",
+      "No advance unlock, beta, demo, or head-start period is described."
+    ],
+    "boundary": "Do not interpret an estimated delivery date or retailer processing notice as an official early-access entitlement.",
+    "takeaway": "Preorder decisions should be based on edition, platform, retailer terms, and confirmed bonus—not an unannounced play window."
+  },
+  {
+    "hub": "faq",
+    "slug": "what-is-the-best-source-for-official-announcements",
+    "question": "What Is the Best Source for Official Announcements?",
+    "headline": "Use Natsume’s News Index and First-Party Product Page",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "Natsume’s official news index is the primary place for dated announcements, while the Natsume Store product page is useful for live physical-product metadata.",
+    "facts": [
+      "The news index links the March, May, and June press releases.",
+      "The store lists current date, genre, player count, rating status, price, and physical variants.",
+      "Retailer and community posts should be checked against these first-party records."
+    ],
+    "boundary": "A first-party source can still change, so guides should record the review date and preserve the difference between announcement text and live metadata.",
+    "takeaway": "This evidence hierarchy makes corrections faster and reduces rumor-driven pages."
+  },
+  {
+    "hub": "faq",
+    "slug": "is-this-wiki-an-official-natsume-site",
+    "question": "Is This Wiki an Official Natsume Site?",
+    "headline": "No, This Is an Independent Fan Guide",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "No. Harvest Moon: Echoes of Teradea Wiki & Guides is an unofficial fan site and is not operated by Natsume.",
+    "facts": [
+      "Official claims are linked back to Natsume sources.",
+      "Editorial summaries separate confirmed facts from unknown details.",
+      "The site does not claim access to unreleased game data."
+    ],
+    "boundary": "Readers should use first-party pages for purchases, support, legal terms, and final product specifications.",
+    "takeaway": "The wiki’s role is to organize evidence and player questions, not replace the publisher."
+  },
+  {
+    "hub": "faq",
+    "slug": "can-winds-of-anthos-data-be-used-for-echoes-of-teradea",
+    "question": "Can Winds of Anthos Data Be Used for Echoes of Teradea?",
+    "headline": "Do Not Treat Earlier-Game Data as Teradea Facts",
+    "source": {
+      "date": "2026-03-11",
+      "label": "Natsume title announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_379_HM_EOT_TitleAnnouncementF.pdf"
+    },
+    "answer": "No. Recipes, gifts, item values, controls, NPC schedules, and mechanics from The Winds of Anthos are not evidence for Echoes of Teradea.",
+    "facts": [
+      "Echoes of Teradea is a new entry with its own world and systems.",
+      "Series concepts can return with different values or rules.",
+      "Natsume has not published full launch databases for Teradea."
+    ],
+    "boundary": "Earlier games may suggest questions worth testing, but their answers must not be copied into an indexable Teradea guide.",
+    "takeaway": "Each database page should wait for direct announcement evidence or reproducible gameplay observation."
+  },
+  {
+    "hub": "faq",
+    "slug": "how-should-retailer-information-be-verified",
+    "question": "How Should Retailer Information Be Verified?",
+    "headline": "Check the Exact Listing, Seller, Platform, Region, and Bonus",
+    "source": {
+      "date": "2026-05-12",
+      "label": "Natsume preorder announcement",
+      "url": "https://www.natsume.com/news/news_pdffiles/pid_382_HM_EOT_Pre_OrderAnnouncementF.pdf"
+    },
+    "answer": "Verify the exact product page rather than relying on a search snippet: confirm the seller, platform, region, edition, delivery estimate, price, and bonus wording.",
+    "facts": [
+      "Natsume names several retailers but availability changes.",
+      "The Lupo offer is stock-limited.",
+      "Physical options differ from the complete digital platform list."
+    ],
+    "boundary": "A retailer logo in a press release does not guarantee every marketplace seller or country participates in the same offer.",
+    "takeaway": "Record the date checked and link the listing used for any buying claim."
+  },
+  {
+    "hub": "faq",
+    "slug": "when-should-unconfirmed-pages-be-updated",
+    "question": "When Should Unconfirmed FAQ Pages Be Updated?",
+    "headline": "Update After a New First-Party Source or Reproducible Test",
+    "source": {
+      "date": "2026-07-29",
+      "label": "Natsume official news index",
+      "url": "https://www.natsume.com/news/"
+    },
+    "answer": "Update an unconfirmed answer when Natsume, a verified platform store, the final game, or a reproducible player test supplies the missing fact.",
+    "facts": [
+      "The current official record has three game-specific press releases.",
+      "Live store metadata can change before launch.",
+      "Post-launch mechanics need repeatable evidence rather than a single unsourced claim."
+    ],
+    "boundary": "Changing “unknown” to “yes” or “no” without new evidence creates misinformation and weakens the sitemap.",
+    "takeaway": "A dated evidence log makes it clear why an answer changed and which pages need synchronized corrections."
+  }
+]
