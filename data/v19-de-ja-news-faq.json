@@ -1,0 +1,282 @@
+[
+  {
+    "hub": "release-date",
+    "slug": "is-september-24-listed-on-the-official-store",
+    "translations": {
+      "de": [
+        "Nennt der offizielle Natsume Store den 24. September als Erscheinungstermin?",
+        "Ja. Die Produktseite im Natsume Store nennt den 24. September 2026 als Erscheinungstermin von Harvest Moon: Echoes of Teradea."
+      ],
+      "ja": [
+        "Natsume公式ストアに9月24日の発売日が掲載されている？",
+        "はい。Natsume公式ストアの商品ページには、Harvest Moon: Echoes of Teradeaの発売日が2026年9月24日と記載されています。"
+      ]
+    }
+  },
+  {
+    "hub": "release-date",
+    "slug": "what-day-of-the-week-is-september-24-2026",
+    "translations": {
+      "de": [
+        "Auf welchen Wochentag fällt der Release von Echoes of Teradea?",
+        "Der 24. September 2026 ist ein Donnerstag. Dieses Datum ist der von Natsume bestätigte Erscheinungstermin."
+      ],
+      "ja": [
+        "Echoes of Teradeaの発売日は何曜日？",
+        "2026年9月24日は木曜日です。Natsumeが確認している発売日を曜日に換算した結果です。"
+      ]
+    }
+  },
+  {
+    "hub": "release-date",
+    "slug": "has-the-release-date-changed-since-preorders-opened",
+    "translations": {
+      "de": [
+        "Hat sich der Erscheinungstermin seit dem Vorbestellungsstart geändert?",
+        "Nein. Seit dem Start der Vorbestellungen wurde keine offizielle Änderung veröffentlicht; weiterhin gilt der 24. September 2026."
+      ],
+      "ja": [
+        "予約開始後に発売日は変更された？",
+        "いいえ。予約開始後に公式な変更は発表されておらず、2026年9月24日のままです。"
+      ]
+    }
+  },
+  {
+    "hub": "release-date",
+    "slug": "are-regional-digital-unlock-times-published",
+    "translations": {
+      "de": [
+        "Sind regionale Freischaltzeiten für digitale Versionen veröffentlicht?",
+        "Nein. Natsume hat das Datum bestätigt, aber noch keine regionalen Freischaltzeiten für Steam, PlayStation, Xbox oder Nintendo veröffentlicht."
+      ],
+      "ja": [
+        "地域別のデジタル版解禁時刻は発表されている？",
+        "いいえ。発売日は確定していますが、Steam、PlayStation、Xbox、Nintendoの地域別解禁時刻は未発表です。"
+      ]
+    }
+  },
+  {
+    "hub": "demo",
+    "slug": "is-the-first-trailer-a-playable-demo",
+    "translations": {
+      "de": [
+        "Ist der erste Trailer eine spielbare Demo?",
+        "Nein. Die Veröffentlichung vom 18. Juni ist ausdrücklich ein Video-Trailer und keine herunterladbare oder spielbare Demo."
+      ],
+      "ja": [
+        "最初のトレーラーは遊べる体験版？",
+        "いいえ。6月18日に公開されたのは映像トレーラーであり、ダウンロード可能な体験版ではありません。"
+      ]
+    }
+  },
+  {
+    "hub": "demo",
+    "slug": "has-a-demo-download-size-been-published",
+    "translations": {
+      "de": [
+        "Wurde eine Downloadgröße für eine Demo veröffentlicht?",
+        "Nein. Da Natsume keine öffentliche Demo angekündigt hat, gibt es auch keine bestätigte Demo-Dateigröße."
+      ],
+      "ja": [
+        "体験版のダウンロード容量は発表された？",
+        "いいえ。公開体験版自体が発表されていないため、機種別のファイル容量も未発表です。"
+      ]
+    }
+  },
+  {
+    "hub": "demo",
+    "slug": "is-there-an-age-rating-for-a-demo",
+    "translations": {
+      "de": [
+        "Gibt es eine Altersfreigabe für eine Demo?",
+        "Nein. Für eine öffentliche Demo ist keine eigene Altersfreigabe gelistet; beim vollständigen Spiel steht derzeit ESRB „Rating Pending“."
+      ],
+      "ja": [
+        "体験版の年齢レーティングはある？",
+        "いいえ。公開体験版の個別レーティングはなく、製品版も現在はESRB「Rating Pending」です。"
+      ]
+    }
+  },
+  {
+    "hub": "demo",
+    "slug": "would-a-demo-require-a-preorder",
+    "translations": {
+      "de": [
+        "Würde eine Demo eine Vorbestellung erfordern?",
+        "Natsume hat keine Demo angekündigt. Deshalb gibt es weder eine bestätigte Vorbestellpflicht noch einen Zugangscode oder Early Access."
+      ],
+      "ja": [
+        "体験版を遊ぶには予約が必要？",
+        "体験版はまだ発表されていないため、予約条件、アクセスコード、早期プレイ特典はいずれも確認されていません。"
+      ]
+    }
+  },
+  {
+    "hub": "game-status",
+    "slug": "does-rating-pending-mean-the-game-is-rated-teen",
+    "translations": {
+      "de": [
+        "Bedeutet „Rating Pending“, dass das Spiel ab Teenageralter freigegeben ist?",
+        "Nein. „Rating Pending“ bedeutet, dass die endgültige ESRB-Einstufung noch nicht angezeigt wird; es ist keine Teen-Freigabe."
+      ],
+      "ja": [
+        "「Rating Pending」はTeen指定という意味？",
+        "いいえ。「Rating Pending」はESRBの最終区分が未確定という意味で、Teen指定を示すものではありません。"
+      ]
+    }
+  },
+  {
+    "hub": "game-status",
+    "slug": "does-one-player-confirm-no-online-features",
+    "translations": {
+      "de": [
+        "Bestätigt „1 Spieler“, dass es keine Online-Funktionen gibt?",
+        "Nein. Der Store bestätigt Einzelspieler, sagt damit aber nichts Abschließendes über optionale Cloud-, Ranglisten- oder Sharing-Funktionen aus."
+      ],
+      "ja": [
+        "「1人用」ならオンライン機能は一切ない？",
+        "いいえ。1人用であることは確認できますが、クラウド、ランキング、共有など任意のオンライン機能までは否定できません。"
+      ]
+    }
+  },
+  {
+    "hub": "game-status",
+    "slug": "has-the-full-game-file-size-been-published",
+    "translations": {
+      "de": [
+        "Wurde die Dateigröße des vollständigen Spiels veröffentlicht?",
+        "Nein. Natsume hat noch keine plattformspezifische Download- oder Installationsgröße veröffentlicht."
+      ],
+      "ja": [
+        "製品版のファイル容量は発表された？",
+        "いいえ。Natsumeは機種別のダウンロード容量やインストール容量をまだ公開していません。"
+      ]
+    }
+  },
+  {
+    "hub": "game-status",
+    "slug": "have-pc-system-requirements-been-published",
+    "translations": {
+      "de": [
+        "Wurden die PC-Systemanforderungen veröffentlicht?",
+        "Nein. In den bisher geprüften Natsume-Ankündigungen fehlen minimale und empfohlene PC-Spezifikationen."
+      ],
+      "ja": [
+        "PC版のシステム要件は発表された？",
+        "いいえ。確認済みのNatsume公式発表には、最低・推奨PCスペックが掲載されていません。"
+      ]
+    }
+  },
+  {
+    "hub": "guides",
+    "slug": "can-campsites-support-long-exploration-trips",
+    "translations": {
+      "de": [
+        "Unterstützen Campingplätze längere Erkundungstouren?",
+        "Ja. Laut Natsume kann man an Campingplätzen kochen, schlafen und sich erholen; sie unterstützen damit längere Touren außerhalb der Farm."
+      ],
+      "ja": [
+        "キャンプ場は長時間の探索に役立つ？",
+        "はい。Natsumeはキャンプ場で料理、睡眠、回復ができると説明しており、農場を離れた探索を支える仕組みです。"
+      ]
+    }
+  },
+  {
+    "hub": "guides",
+    "slug": "should-you-match-animal-abilities-to-obstacles",
+    "translations": {
+      "de": [
+        "Sollte man Tierfähigkeiten passend zu Hindernissen auswählen?",
+        "Ja. Offizielle Beschreibungen nennen unterschiedliche Tierfähigkeiten zum Springen, Zerstören von Hindernissen und Finden von Schätzen."
+      ],
+      "ja": [
+        "障害物に合わせて動物の能力を選ぶべき？",
+        "はい。公式説明では、動物ごとの能力で地形を越え、障害物を壊し、宝を発見できるとされています。"
+      ]
+    }
+  },
+  {
+    "hub": "guides",
+    "slug": "can-wild-animal-attacks-cost-collected-items",
+    "translations": {
+      "de": [
+        "Können Angriffe wilder Tiere gesammelte Gegenstände kosten?",
+        "Ja. Natsume warnt, dass gefährliche Tiere den Spieler zurückschicken und zum Verlust eines Teils der gesammelten Gegenstände führen können."
+      ],
+      "ja": [
+        "野生動物に襲われると集めたアイテムを失う？",
+        "はい。危険な野生動物に倒されると戻され、集めたアイテムの一部を失う可能性があるとNatsumeが説明しています。"
+      ]
+    }
+  },
+  {
+    "hub": "guides",
+    "slug": "do-nautical-charts-support-island-expeditions",
+    "translations": {
+      "de": [
+        "Unterstützen Seekarten Expeditionen zu Inseln?",
+        "Ja. Die offizielle Funktionsbeschreibung verbindet Seekarten mit abgelegenen Inseln, seltenen Sammelobjekten und Tieren."
+      ],
+      "ja": [
+        "海図は離島探索に使う？",
+        "はい。公式説明では、海図を手掛かりに離島へ向かい、珍しい収集物や動物を探す流れが示されています。"
+      ]
+    }
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-cross-save-confirmed-between-platforms",
+    "translations": {
+      "de": [
+        "Ist Cross-Save zwischen den Plattformen bestätigt?",
+        "Nein. Für Switch, Switch 2, PS5, Xbox und Steam wurde keine plattformübergreifende Übertragung von Spielständen bestätigt."
+      ],
+      "ja": [
+        "機種間のクロスセーブは確認されている？",
+        "いいえ。Switch、Switch 2、PS5、Xbox、Steam間のセーブデータ共有は発表されていません。"
+      ]
+    }
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-there-a-switch-to-switch-2-upgrade-path",
+    "translations": {
+      "de": [
+        "Gibt es einen Upgrade-Pfad von Switch zu Switch 2?",
+        "Nein. Natsume listet getrennte physische Varianten, hat aber kein kostenpflichtiges oder kostenloses Upgrade-Programm angekündigt."
+      ],
+      "ja": [
+        "Switch版からSwitch 2版へのアップグレードはある？",
+        "いいえ。別々のパッケージ版は掲載されていますが、有料・無料のアップグレード制度は発表されていません。"
+      ]
+    }
+  },
+  {
+    "hub": "platforms",
+    "slug": "is-a-ps5-disc-preorder-confirmed",
+    "translations": {
+      "de": [
+        "Ist eine physische PS5-Vorbestellung bestätigt?",
+        "Ja. Der Natsume Store führt PlayStation 5 als auswählbare physische Vorbestellvariante."
+      ],
+      "ja": [
+        "PS5のパッケージ版予約は確認されている？",
+        "はい。Natsume公式ストアでPlayStation 5がパッケージ版の予約選択肢として掲載されています。"
+      ]
+    }
+  },
+  {
+    "hub": "platforms",
+    "slug": "has-steam-deck-compatibility-been-announced",
+    "translations": {
+      "de": [
+        "Wurde Steam-Deck-Kompatibilität angekündigt?",
+        "Nein. Die Steam-Version ist bestätigt, aber Natsume hat noch keine Steam-Deck-Einstufung oder getestete Leistungsangaben veröffentlicht."
+      ],
+      "ja": [
+        "Steam Deck対応は発表されている？",
+        "いいえ。Steam版は確定していますが、Steam Deckの互換性評価や検証済み動作情報は未発表です。"
+      ]
+    }
+  }
+]
