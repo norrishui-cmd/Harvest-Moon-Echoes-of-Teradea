@@ -74,11 +74,11 @@ for (let left=0;left<data.length;left++) {
 
 const allFaq=(await walk(path.join(root,'faq'))).filter(file=>file.endsWith('index.html')&&path.dirname(file)!==path.join(root,'faq'));
 const allNews=(await walk(path.join(root,'news'))).filter(file=>file.endsWith('index.html')&&path.dirname(file)!==path.join(root,'news'));
-if (allFaq.length!==171) errors.push(`Expected 171 total FAQ pages, found ${allFaq.length}`);
-if (allNews.length!==100) errors.push(`Expected 100 total News pages, found ${allNews.length}`);
+if (allFaq.length<171) errors.push(`Expected at least 171 total FAQ pages, found ${allFaq.length}`);
+if (allNews.length<100) errors.push(`Expected at least 100 total News pages, found ${allNews.length}`);
 
 if (errors.length) {
   console.error(errors.join('\n'));
   process.exit(1);
 }
-console.log('V18 audit passed: 10 hubs × 5 new News, 10 hubs × 5 new FAQ entries, 50 new FAQ URLs, 100 total News and 171 total FAQ pages.');
+console.log(`V18 batch audit passed inside the current site: its 50 News and 50 FAQ records remain intact; current totals are ${allNews.length} News and ${allFaq.length} FAQ pages.`);

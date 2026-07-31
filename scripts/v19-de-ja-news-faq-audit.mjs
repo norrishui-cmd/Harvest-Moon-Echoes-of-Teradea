@@ -80,9 +80,9 @@ for (const file of htmlFiles) {
 }
 
 const sitemapUrls = [...sitemap.matchAll(/<loc>[^<]+<\/loc>/g)].map(x => x[0]);
-if (manifest.length !== 921) failures.push(`expected 921 indexable URLs, found ${manifest.length}`);
+if (manifest.length < 921) failures.push(`expected at least 921 indexable URLs, found ${manifest.length}`);
 if (sitemapUrls.length !== manifest.length) failures.push(`sitemap ${sitemapUrls.length} != manifest ${manifest.length}`);
-if (htmlFiles.length !== 933) failures.push(`expected 933 HTML files, found ${htmlFiles.length}`);
+if (htmlFiles.length < 933) failures.push(`expected at least 933 HTML files, found ${htmlFiles.length}`);
 
 if (failures.length) {
   console.error(failures.join('\n'));

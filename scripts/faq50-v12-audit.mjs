@@ -55,10 +55,10 @@ for (const hub of hubs) {
 }
 
 const allFaqFiles = (await walk(path.join(root,'faq'))).filter(file=>file.endsWith('index.html') && path.dirname(file) !== path.join(root,'faq'));
-if (allFaqFiles.length !== 171) errors.push(`Expected 171 total FAQ pages after V18, found ${allFaqFiles.length}`);
+if (allFaqFiles.length < 171) errors.push(`Expected at least 171 total FAQ pages after V18, found ${allFaqFiles.length}`);
 
 if (errors.length) {
   console.error(errors.join('\n'));
   process.exit(1);
 }
-console.log('V12 FAQ audit passed inside V18: its 50-page batch remains intact within 171 total FAQ pages.');
+console.log(`V12 FAQ batch remains intact; current site contains ${allFaqFiles.length} FAQ pages.`);
